@@ -1,0 +1,17 @@
+# Wrap-up
+
+Congratulations! You've made it to the final week of the course! I hope you are proud of your efforts and all you've accomplished throughout this term! You engaged in industry-standard best practices in open research, from experiment pre-registration to programming an experiment, to analyzing data. You also got to explore a research topic of your own choosing! You might, for example, want to take the pre-registration from this course and use it to guide an independent or thesis project next semester or academic year. 
+
+This week you get to show off all you've learned about your topic and your experiment and data analysis plan through your [final poster presentation](assignment_poster.qmd). We all look forward to seeing them! 
+
+
+## Feedback
+We continually seek to improve this course! If there are aspects of this book or any of the assignments that can be improved, please feel free to suggests changes via a pull request or issue on GitHub or directly to Dr. Fink via email. 
+
+## Reflection
+If you would like to recieve 1 bonus percentage point towards your final grade, you can include a reflection in your individual repository. Further instructions are [here](assignment_reflection.qmd). 
+
+
+
+
+

@@ -1,0 +1,68 @@
+PNB 3EE3; Fink
+
+# Environment Exercise
+
+### Background learning
+Throughout this course, we will be working with code and data. It might be the first time you have ever done these things! That is exciting! Luckily, you do not need to start from scratch. There are many pre-made tools available to help you! 
+
+Before we get starting downloading and installing tools, it's important to understand some basics: 
+
+#### The difference between your local computer and the cloud:
+
+- [https://www.geeksforgeeks.org/difference-between-cloud-computing-and-traditional-computing/](https://www.geeksforgeeks.org/difference-between-cloud-computing-and-traditional-computing/ ) 
+
+#### Using the command line: 
+
+- [https://tutorial.djangogirls.org/en/intro_to_command_line/](https://tutorial.djangogirls.org/en/intro_to_command_line/)
+- [https://www.freecodecamp.org/news/command-line-for-beginners/](https://www.freecodecamp.org/news/command-line-for-beginners/)
+
+> NOTE read through this but don't worry about stepping through the scripting example at the end
+
+#### Git vs. GitHub:
+
+- [https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them](https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
+- [https://experimentology.io/101-github.html](https://experimentology.io/101-github.html)
+
+> NOTE: read through this but don't worry about stepping through the scripting example at the end
+
+
+## Setting up your local computing environment
+Now that you've got the appropriate background reading out of the way, let's get started with the tools we will need for this course! Please follow the steps below before coming to the first class or tutorial. 
+
+1. Download an integrated development environment (IDE) for working with code. If you already have a preferred IDE, feel free to keep using that one! If this is your first time encountering the idea of an IDE, some nice options are: 
+- Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/) 
+- R Studio: [https://posit.co/downloads/](https://posit.co/downloads/)
+
+2. Using your terminal or console, make sure git is installed on your machine: [https://github.com/git-guides/install-git](https://github.com/git-guides/install-git ) 
+
+3. Sign up for a GitHub Education account using your McMaster email address: [https://github.com/education](https://github.com/education)
+
+> NOTE: The application process for Github Education takes a few days, so please sign up as soon as you can. GitHub Education gives you lots of nice (free) perks and learning tools!
+
+4. Depending on the IDE you have chosen and your comfort with the command line, you may not want to use any other tools (e.g., many IDEs have built-in integration for git and GitHub). If all of this sounds super confusing, you can use [GitHub desktop](https://github.com/apps/desktop) OR [Github CLI](https://cli.github.com/) to streamline the process of pushing changes from your local machine to the GitHub cloud.  
+
+5. On your computer: 
+- create a new directory (folder) in your Downloads/ location (or any other location that is not synced with an online cloud storage like iCloud or OneDrive). Name the new folder as 'PNB3EE3'
+- within this folder, create another folder called 'Lastname_Firstname_assignments' -- in my case, the folder would be called 'Fink_Lauren_assignments'
+- within this folder create a file called 'environmentAssignment.html'
+- open this file in the IDE you downloaded earlier (in step 1)
+- in the environmentAssignment.html file, add the following lines:
+
+```
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+        <h1>My First Heading</h1>
+        <p>My first paragraph.</p>
+
+        </body>
+        </html>
+```
+
+- Now, replace "My First heading" with "What I learned today". 
+- Next, replace "My first paragraph" with a few things you learned by completing this tutorial. 
+
+6. Be sure to come to the first class with all of the above completed. During the first class, we will discuss all of these concepts further and show you how / where to submit this first exercise. If you've run into issues throughout this process, don't worry, we will help you troubleshoot any issues!
+
+

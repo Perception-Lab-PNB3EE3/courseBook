@@ -1,0 +1,34 @@
+# Data Analyses
+
+This week we will focus on data analysis. You have already coded your experiment and made sure that all of the data you need from the experiment is properly output. Now its time to analyze simulated data from your experiment! 
+
+**Our goals are to:**
+
+- understand the importance of simulating data and planning analyses
+
+- review data visualization best practices
+
+- apply statistical knowledge from other required courses 
+
+- workshop the beginnings of your analysis notebook
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Begin working on your [analysis code](assignment_analysis_code.qmd). You will have two weeks to complete this assignment.
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+If you are struggling with this assignment, go back to the previous data visualization assignment, as well as materials from the statistics courses you have already taken for your degree. Don't be afriad to ask your peers or instructors for help! 
+
+
+:::
+
+
+
+
+

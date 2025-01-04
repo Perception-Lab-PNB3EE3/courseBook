@@ -1,0 +1,30 @@
+# Experimental Design
+
+This week we will focus on various aspects of experimental design and continuing adding to our jsPsych knowledge. 
+
+**Our goals are to:**
+
+- understand the choices involved in experimental design
+
+- program a first basic experiment in jsPsych
+
+- continue discussing perception research 
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Please work through the [jsPsych 2 assignment (linked here).](assignment_jsPsych_2.qmd)
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+Additionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project. 
+
+:::
+
+
+
+

@@ -1,0 +1,33 @@
+# Programming your experiment
+
+This week we will discuss how to translate your pre-registered experimental design into experiment presentation code in jsPsych. First we will map out the full experiment in pseudo code, then we will get into the weeds of how to implement the experiment in jsPsych. We will also discuss the importance of instructions and the user interface of the experiment. 
+
+**Our goals are to:**
+
+- continue refining knowledge of jsPsych
+
+- develop instructions for proposed tasks
+
+- think through output variables and data formatting
+
+- program an experiment from start to finish
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Begin working on the [Experiment Code assignment](assignment_experiment_code.qmd). You will have two weeks to get this completed. 
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+If you are struggling with this assignment, go back to the previous jsPsych readings and assignments; don't be afriad to ask your peers or instructors for help! 
+
+:::
+
+
+
+
+

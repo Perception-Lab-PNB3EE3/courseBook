@@ -1,0 +1,69 @@
+PNB 3EE3; Fink
+
+# jsPsych Assignment 1
+The purpose of this assignment is to get you more familiar with web technologies and why we might want to use the web for perception-related experiments. 
+
+This is more of a reading, thinking, and practicing exercise. There is no final document to submit besides the reflection questions below. That means that, yes, you could fake doing this assignment by answering the questions below. But--I assure you--your performance in the course will hugely benefit from you taking the time to go through the steps outlined below. We will use jsPsych in the remainder of the course and if you do not form a solid foundation now, all future assignments will be more difficult!
+
+## Your tasks
+
+### Read these 2 journal articles: 
+
+This article provides context for why web-based research is important in psychology. 
+- Reips, U. D. (2021). Web-based research in psychology. Zeitschrift für Psychologie. Available from: [https://psycnet.apa.org/fulltext/2022-17584-002.pdf](https://psycnet.apa.org/fulltext/2022-17584-002.pdf)
+
+This article introduces jsPsych--a tool for web-based research. 
+- de Leeuw, J. R., Gilbert, R. A., Petrov, N., & Luchterhandt, B. (2023). Simulating behavior to help researchers build experiments. Behavior Research Methods, 55(4), 1863-1873. [https://link.springer.com/article/10.3758/s13428-014-0458-y](https://link.springer.com/article/10.3758/s13428-014-0458-y)
+
+> NOTE: You do not need to go through the tutorial included in the text (We will do a more up to date tutorial later!)
+
+### Read ALL of these short blog posts: 
+
+All of these provide basic background information on web technologies and programming. 
+
+#### How does the internet work?
+
+- [https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)
+
+
+#### HTML, CSS, and javascript
+
+- [https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f](https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f)
+
+
+#### No-code introduction to programming
+- [https://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/](https://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/ )
+
+#### What is javascript?
+
+- [https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
+
+- [https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/A_first_splash](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/A_first_splash)
+
+#### jsPsych plugins
+- [https://www.jspsych.org/7.0/overview/plugins/](https://www.jspsych.org/7.0/overview/plugins/ )
+
+- [https://www.jspsych.org/7.0/plugins/list-of-plugins/](https://www.jspsych.org/7.0/plugins/list-of-plugins/ )
+
+
+### Answer these questions
+**Please answer the following questions (in <= 1 paragraph).**
+Each answer is worth two points. 2 points will be awarded if the answer is coherent and without errors. 1 point will be awarded for a partially correct answer. 0 points for an empty or almost completely incorrect answer. This assignment is worth 8% of your final grade in the course. Generative AI (e.g., chatGPT) should not be used to complete any part of this assignment. These questions should not be difficult if you have read the materials above. If you are having trouble, consider revisiting the readings. 
+ 
+1. What is the difference between closed-source, proprietary code and open-source code? 
+
+2. Why should psychologists care about web technologies and open source code? 
+
+3. Please briefly describe the difference between HTML, CSS, and javascript. What do each of these do?
+
+4. How would you define data types? Why are they important in computer programming? 
+
+5. Imagine you want to program an experiment where participants need to complete 2 tasks, 10 times each. Using pseudo code, please describe how you would program this task. If you need an example of pseudo code, be sure you have read the no-code introduction to programming above. 
+
+6. Imagine you want to use the visual-search-circle plugin in a jsPsych experiment. Please provide the HTML code required to load jsPsych and this particular plugin. HINT: your answer should only be four lines of code!
+
+To submit your answers to these questions, please use the following form: [https://forms.office.com/r/Y5wtA5B3GS](https://forms.office.com/r/Y5wtA5B3GS)
+
+
+
+

@@ -1,0 +1,34 @@
+PNB 3EE3; Fink
+
+# jsPsych Assignment 2
+The goal of this assignment is to familiarize you with the basics of setting up experiments in jsPsych. 
+
+There are multiple steps to this assignment.  
+
+1. Complete the [Hello World tutorial](https://www.jspsych.org/7.0/tutorials/hello-world/). Use 'Option 1: CDN-hosted scripts.' You do not need to download jsPsych to your own machine.
+2. Complete the [Reaction Time tutorial](https://www.jspsych.org/7.0/tutorials/rt-task/). If you are struggling with this tutorial, or you just want some additional reinforcement of the concepts you are learning, [watch this video tutorial](https://www.youtube.com/watch?v=18NW6jmc6m4). Disregard the very end of the video when the speaker tries to load packages from the local machine. Please stick with the CDN-hosted scripts.
+3. Create a copy of the reaction time tutorial and name the file `myNewExperiment.html`
+4. Make the following changes to the experiment:
+   
+    * Make the diameter of the orange circle half of its current diameter. 
+    
+    * Change the blue circle to a blue square.
+
+    * At the end of the experiment, add feedback regarding how fast participants' reaction times were for the blue squares vs. orange circles. 
+
+6. Put all three of the above files into a folder called `jsPsych`.
+7. Be sure to add a `README.md` file to this folder so that we can understand anything critical to making your code run.
+8. Push all changes to your individual GitHub repository for final grading.
+
+## Assessment
+This assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:
+
+* Completeness (all necessary files submitted in one folder; code accomplishes what it should): 30%
+
+* Reproducability (all files can be executed without error): 40%
+
+* Documentation (code and README.md have been appropriately commented so that others can understand): 30%
+
+
+
+**IMPORTANT:** Generative AI (e.g., chatGPT) should not be used to complete this assignment. 

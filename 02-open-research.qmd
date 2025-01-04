@@ -1,0 +1,30 @@
+# Open Research
+
+This week we will focus on recommended best practices for transparent and open research.  
+
+**Our goals are to:**
+
+- review the replication crisis and the importance of open research practices
+
+- understand the value of web-based experiments in Psychology
+
+- introduce web technologies for conducting online experiments
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Please work through the [jsPsych 1 assignment (linked here).](assignment_jsPsych_1.qmd)
+
+> NOTE: this assignment will require substantial reading and thought - do not put it off until the last minute! 
+
+Additionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project. 
+
+:::
+
+
+
+

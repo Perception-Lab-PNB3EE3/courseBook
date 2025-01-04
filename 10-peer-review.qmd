@@ -1,0 +1,35 @@
+# Peer Review
+
+This week we will focus on critiquing each other's planned analyses and poster drafts. 
+
+**Our goals are to:**
+
+- continue refining our understanding of what goes into a research poster 
+
+- continue refining our understanding of data analysis and visualization
+
+- practice giving effective peer feedback
+
+- learn from each others' comments
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Finish your [analysis code](assignment_analysis_code.qmd). It is due before the next class!
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+If you are struggling with this assignment, go back to the previous data visualization assignment, as well as materials from the statistics courses you have already taken for your degree. Don't be afriad to ask your peers or instructors for help! 
+
+Continue preparing for your [final poster presentation](assignment_poster.qmd). Be sure to come to the next class with a draft of your poster. It's ok if the analysis section isn't done yet, but most other aspects can be completed by now.  
+
+:::
+
+
+
+
+

@@ -1,0 +1,7 @@
+_site/
+_book/
+.quarto/
+.Rhistory
+.Rproj.user
+
+/.quarto/

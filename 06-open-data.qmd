@@ -1,0 +1,31 @@
+# Open data
+
+This week we will get into the weeds about data. [Danica Evering](https://rdm.mcmaster.ca/about) from [McMaster's Research Data Management Services](https://rdm.mcmaster.ca/) will join us for a lively discussion and in-class exercise using one of McMaster's recently developed data exploration tools. 
+
+**Our goals are to:**
+
+- understand what is meant by open data, as well as potential barriers to publishing open data
+
+- discuss best practices in data management
+
+- explore the wealth of datasets freely available online 
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+By now, you should be at least partially done with the [pre-registration assignment.](assignment_preregistration.qmd) Do not forget that it is due after reading week, before our next class! 
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+[Read Experimentology Ch. 11](https://experimentology.io/011-prereg.html), if you haven't already. 
+
+
+:::
+
+
+
+

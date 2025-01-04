@@ -1,0 +1,33 @@
+PNB 3EE3; Fink
+
+# Data analysis code
+In the age of Open Science and Reproducability, it is becoming fairly standard practice that analysis code is submitted alongside papers for publication. The idea is that the papers' claims rely on the analysis code and others should be able to reproduce the results exactly. With this goal in mind, the code you write to analyse the data from your experiment should be well-documented and reproducible. 
+
+For the sake of this course, the easiest way to accomplish the goal of creating understandable, reproducible code is to use the 'notebook' format, which allows you to intersperse chunks of code with chunks of text (markdown). There are many notebooks to choose from: [Jupyter Notebooks](https://jupyter.org), [Google Collab Notebooks](https://colab.research.google.com/?utm_source=scs-index#scrollTo=GJBs_flRovLc), [R Notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html), etc. You are free to use whichever tool is most comfortable for you. 
+
+Below are some examples of final analysis repositories from my own research:
+* [https://github.com/lkfink/Kentler_MIM_Behavior](https://github.com/lkfink/Kentler_MIM_Behavior)
+* [https://github.com/lkfink/pupilTutorial](https://github.com/lkfink/pupilTutorial)
+* [https://github.com/lkfink/Dundun2_labels](https://github.com/lkfink/Dundun2_labels)
+* [https://github.com/janatalab/GEM-Experiments-POC](https://github.com/janatalab/GEM-Experiments-POC)
+* [https://github.com/lkfink/CMQ](https://github.com/lkfink/CMQ)
+
+None of these are perfect (I am still learning too!); they are here to provide some examples/inspiration. 
+
+## What to do
+Your analysis code should follow your pre-registered data analysis plan. Be sure to write the code for all the analyses you proposed, including any exploratory analyses (as registered or now desired). Also be sure to include visualizations. In addition to visualizing your main findings, you might also want to produce visuals to ensure your data meet certain assumptions or that your experimental conditions were balanced as intended. 
+
+You should organize your analysis notebook logically, providing heading and descriptive text, notes, and comments where necessary. Someone unfamiliar with your analysis plan should be able to look at your notebook and understand what is going on and what it means. 
+
+You will run your analysis code on data we will simulate together in class for your experiment. 
+
+## Assessment
+This assignment is worth 10% of your overall course grade. A breakdown of assessment criteria for this assignment is provided below. Your final analysis code should:
+
+* be executable from start to finish (meaning your notebook will likely 'live' in a repository that also contains your final data table required for analyses, as well as a README, etc.): 20%
+* be well-commented (use the increased functionality and markdown formatting of these notebooks to take your reader on a logical journey of why you did the analyses you did. Be sure to include any considerations or notes you feel important): 20%
+* include compelling in-line visuals that make sense for your data: 30%
+* include statistical tests appropriate for your data: 30%
+
+
+

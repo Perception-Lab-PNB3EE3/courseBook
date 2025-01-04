@@ -1,0 +1,34 @@
+# Data Visualization
+
+We've been discussing how to design an experiment and collect data. But what do you expect the data from your experiment to look like? What should you do with your data once you have it? This week we will discuss best practices in visualization. The topics discussed thisi week will prepare you for later assignments (e.g., Pre-registration, Analysis Code; don't worry about these yet!). 
+
+**Our goals are to:**
+
+- discuss perceptual and cognitive constraints on data visualizations
+
+- learn to analyze and critique scientific data visualizations
+
+- introduce available tools for creating visualizations 
+
+- practice visualizing data 
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Please work through the [data visualization assignment (linked here).](assignment_dataVis.qmd)
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+[Read Experimentology Ch. 15](https://experimentology.io/015-viz.html) (it will help you with the assignment!)
+
+Additionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project. 
+
+:::
+
+
+
+

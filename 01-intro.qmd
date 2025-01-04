@@ -1,0 +1,36 @@
+# Introduction
+
+In the first week of the course, we will set ourselves up for success in the remainder of the course! 
+
+**Our goals are to:**
+
+- introduce ourselves, and our research interests, to each other
+
+- review some fundamentals of perception and experimental design
+
+- become familiar with the utility of git and GitHub
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Please work through the [Environment Exercise (linked here).](exercise_environment.qmd) 
+
+Additionally, please read chapters 1-4 from Experimentology:
+
+- [Chapter 1: Experiments  ](https://experimentology.io/001-experiments.html)
+
+- [Chapter 2: Theory  ](https://experimentology.io/002-theories.html)
+
+- [Chapter 3: Replication  ](https://experimentology.io/003-replication.html)
+
+- [Chapter 4: Ethics  ](https://experimentology.io/004-ethics.html)
+
+:::
+
+
+

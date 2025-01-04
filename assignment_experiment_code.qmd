@@ -1,0 +1,25 @@
+PNB 3EE3; Fink
+
+# Experiment Presentation Code
+Many tools exist for creating research experiments. Some of these tools are GUI-based (GUI stands for graphical user interface), meaning that the user (you, the researcher!) only needs to point and click and drag things around. However, such tools hide what's going on "behind the scenes." 
+
+For the sake of this course, and your own development as a researcher, it is important to understand how code works. Why? Well, you need to understand the limitations of your methods and you need to be able to communicate with others. For example, even if you never write code again after this course, you might have a human programmer or even chatGPT write code for you--how do you know what to ask for? You at least need to be able to describe and discuss how code works and understand how to use code to accomplish tasks. 
+
+Some people in your class may have more programming experience than others - that is great! You can all learn from each other! Coding is a social process. I encourage all of you to work together, to learn from each other, and review each others' work. If you need more convincing that coding is social, [read this](https://goodresearch.dev/social). And if you want to explore that linked book further, you will find some great recommendations for writing good research code (though note that the book is mostly focussed on Python). 
+
+For this assignment, your experiment code should: 
+
+* be written in jsPsych
+* follow the experimental design plan outlined in your previously submitted pre-registration
+* be well commented
+* be modular (if you want some examples, [read this](https://goodresearch.dev/decoupled))
+* run from start to finish in the browser without error
+* output all data required for subsequent analyses in an organized fashion (i.e., variable names are logical; all data you want to analyse are saved)
+* provide an intuitive user experience
+
+## Assessment
+* Completeness (all necessary files submitted): 10%
+* Reproducability (experiment can be executed without error; data required for subsequent analyses are properly saved: 30%)
+* Logic / Clarity (experiment user interface and timeline is intuitive; instructions make sense; questions are clear, etc.): 20%
+* Documentation. There are two aspects: 1) the code has been appropriately commented so that others can understand it (20%). 2) a clear and organized README.md file is included instructructing others how to use and interact with your code (20%). 
+

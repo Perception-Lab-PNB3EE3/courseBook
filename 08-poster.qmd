@@ -1,0 +1,34 @@
+# Creating a research poster
+
+This week we will provide you with background knowledge and skills required for the final poster presentation (happening during the last week of the course).
+
+**Our goals are to:**
+
+- understand the function of a research poster
+
+- discuss norms in designing and presenting posters
+
+- explore tools for creating posters
+
+- workshop the beginnings of your research poster
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Finish up your [Experiment Code assignment](assignment_experiment_code.qmd), due before the next class! 
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+If you are struggling with this assignment, go back to the previous jsPsych readings and assignments; don't be afriad to ask your peers or instructors for help! 
+
+
+:::
+
+
+
+
+

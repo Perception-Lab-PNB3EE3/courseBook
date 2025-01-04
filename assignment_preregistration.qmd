@@ -1,0 +1,42 @@
+PNB 3EE3; Fink
+
+# Pre-registration Assignment
+
+In this assignment, you should pre-register an experiment that you will later create using jsPsych. In other words, your experiment should be one that involves an individual using a web browser, not, for example, a social group experiment. 
+
+## Objectives:
+
+- Describe the background motivation for your project. Think about how your experiment is positioned in the literature.
+
+- Describe the proposed experimental methods in sufficient detail that others will be able to recreate the experiment you are proposing.
+
+- Think through and describe the analyses you will conduct once you have your data, as well as how you will collect your data and from whom.
+
+
+  
+## Submission requirements:
+
+- Fill out this [standard OSF pre-registration template](https://osf.io/preprints/metaarxiv/epgjd/) with your research plans. I have created a markdown version of this document for you so that you do not need to worry about copy-pasting the OSF template into your markdown notebook. [Please use the markdown template here.](resources/assignment_preregistration_template.md)
+
+- In the ‘Description’ section, be sure to provide the context and relevant background literature for your experiment. Have you appropriately motivated your experiment in the context of those that have come before it? What have others done? Why is there still more work to be done? What are previous studies missing? You need to [define your research gap!](https://uwaterloo.ca/writing-and-communication-centre/cars-model-create-research-space) Your description should be clear to a trained non-expert. Please be sure to provide at least 10 references from peer-reviewed academic journals. This background section should be 3-5 paragraphs. 
+
+  > NOTE: there are a few different approaches to incorporating references into a notebook. We will discuss together in class. 
+
+- Clearly and thoroughly describe your research materials and design, with no ambiguity or omission.
+
+- Make sure your stated hypotheses are clearly motivated by the background literature / theory you provide. Planned analyses must logically follow from the stated hypotheses. Your answers should be clear, logical, and thorough.
+
+- For sections about sample size and data collection methods, write as if you were designing an ideal experiment, with no limitations on who / how you can reach people. We are interested in how well you can think through an ideal experiment. 
+
+
+### Assessment Criteria
+This pre-registration is worth 20% of your final course grade. The breakdown of grading for this assignment is as follows:
+
+- Completeness (all sections completed and organized according to template): 10%
+
+-  Clarity (external readers can understand your design and have enough details to replicate it): 60%
+
+- Novelty and logic (your experiment contributes something new to the literature and is logically designed): 30%
+
+**IMPORTANT:** Generative AI (e.g., chatGPT) should not be used to complete this assignment. 
+

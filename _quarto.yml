@@ -1,0 +1,78 @@
+project:
+  type: book
+
+book:
+  title: "Perception Lab"
+  author: "Lauren Fink"
+  date: "12/30/2024"
+  page-navigation: true
+  search: true
+  repo-url: https://github.com/Perception-Lab-PNB3EE3/courseBook 
+  repo-actions: [edit, issue, source]
+  downloads: [pdf, epub]
+  chapters:
+    - index.qmd
+    - part: "Week 1"
+      chapters: 
+        - 01-intro.qmd
+        - exercise_environment.qmd
+    - part: "Week 2"
+      chapters: 
+        - 02-open-research.qmd
+        - assignment_jsPsych_1.qmd
+    - part: "Week 3"
+      chapters: 
+        - 03-exp-design.qmd
+        - assignment_jsPsych_2.qmd
+    - part: "Week 4"
+      chapters: 
+        - 04-data-vis.qmd
+        - assignment_dataVis.qmd
+    - part: "Week 5"
+      chapters: 
+        - 05-pre-reg.qmd
+        - assignment_preregistration.qmd
+    - part: "Week 6"
+      chapters: 
+        - 06-open-data.qmd
+    - part: "Week 7"
+      chapters: 
+        - 07-exp-programming.qmd
+        - assignment_experiment_code.qmd
+    - part: "Week 8"
+      chapters: 
+        - 08-poster.qmd
+    - part: "Week 9"
+      chapters: 
+        - 09-data-analyses.qmd
+        - assignment_analysis_code.qmd
+    - part: "Week 10"
+      chapters: 
+        - 10-peer-review.qmd
+        - assignment_poster.qmd
+    - part: "Week 11"
+      chapters: 
+        - 11-iteration.qmd
+    - part: "Week 12"
+      chapters: 
+        - 12-wrap-up.qmd
+
+
+bibliography: references.bib
+
+
+
+format:
+  html:
+    theme: 
+      light: minty
+      dark: darkly
+    number-sections: false
+  pdf:
+    documentclass: scrreprt
+    number-sections: false
+
+
+resources:
+  - resources/assignment_dataVis_dataset.csv
+  - resources/assignment_preregistration_template.md

@@ -1,0 +1,29 @@
+# Iteration
+
+In case you haven't realized by now, research, writing, data analyses, etc. all require multiple rounds of iteration. In this class we will discuss how your idea of research has evolved throughout the course, and how your pre-registration might require changes based on what you have learned after programming your experiment and simulating data. 
+
+**Our goals are to:**
+
+- understand the importance of iteration in all aspects of scientific research
+
+- iterate on poster drafts 
+
+- practice poster presentations with peers
+
+- learn through peer feedback
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Your [final poster presentation](assignment_poster.qmd) will happen next class. 
+
+:::
+
+
+
+
+

@@ -1,0 +1,34 @@
+# Pre-registration
+
+Everything we've discussed so far in the course should have prepared you for this week: Pre-registration. Pre-registration is the act of publishing an experimental design, data collection, and analysis plan, before conducting an experiment. 
+
+After reading week, you will turn in the Pre-registration assignment. This week we prepare you with everything you will need to complete that assignment! You still have a few weeks to refine your experimental design and interests. Be sure you are simultaneously researching your topic of interest and working on this pre-registration between now and the submission deadline. 
+
+**Our goals are to:**
+
+- understand what pre-registration is and when and why to do it
+
+- discuss what goes into a pre-registration
+
+- begin developing a pre-registration for your own experiment 
+
+
+Slides from this week are available here: [NOTE: Will be updated as course progresses]
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Please begin the [pre-registration assignment (linked here).](assignment_preregistration.qmd)
+
+> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+
+[Read Experimentology Ch. 11](https://experimentology.io/011-prereg.html) (it will help you with the assignment!)
+
+Importantly, please continue refining your research topic. 
+
+:::
+
+
+
+
