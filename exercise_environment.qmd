@@ -42,7 +42,7 @@ Now that you've got the appropriate background reading out of the way, let's get
 4. Depending on the IDE you have chosen and your comfort with the command line, you may not want to use any other tools (e.g., many IDEs have built-in integration for git and GitHub). If all of this sounds super confusing, you can use [GitHub desktop](https://github.com/apps/desktop) OR [Github CLI](https://cli.github.com/) to streamline the process of pushing changes from your local machine to the GitHub cloud.  
 
 5. On your computer: 
-- create a new directory (folder) in your Downloads/ location (or any other location that is not synced with an online cloud storage like iCloud or OneDrive). Name the new folder as 'PNB3EE3'
+- create a new directory (folder) in your `Downloads/` location (or any other location that is not synced with an online cloud storage like iCloud or OneDrive). Name the new folder as 'PNB3EE3'
 - within this folder, create another folder called 'Lastname_Firstname_assignments' -- in my case, the folder would be called 'Fink_Lauren_assignments'
 - within this folder create a file called 'environmentAssignment.html'
 - open this file in the IDE you downloaded earlier (in step 1)
