@@ -16,7 +16,7 @@ Before we get starting downloading and installing tools, it's important to under
 - [https://tutorial.djangogirls.org/en/intro_to_command_line/](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 - [https://www.freecodecamp.org/news/command-line-for-beginners/](https://www.freecodecamp.org/news/command-line-for-beginners/)
 
-> NOTE read through this but don't worry about stepping through the scripting example at the end
+> NOTE: read through this but don't worry about stepping through the scripting example at the end
 
 #### Git vs. GitHub:
 
