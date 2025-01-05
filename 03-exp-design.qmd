@@ -17,7 +17,7 @@ Slides from this week are available here: [NOTE: Will be updated as course progr
 ::: {.callout-important title="Assignments and Exercises"}
 **Before next class**
 
-Please work through the [jsPsych 2 assignment (linked here).](assignment_jsPsych_2.qmd)
+Please work through the [jsPsych assignment 2 (linked here).](assignment_jsPsych_2.qmd)
 
 > NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
 
