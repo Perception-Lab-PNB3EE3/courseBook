@@ -1,12 +1,25 @@
 PNB 3EE3; Fink
 
 # jsPsych Assignment 2
+
+## Pre-requisites
+
+Before starting with the assignmet make sure that you've successfully created and initialized an individual Github repository. You will use this repository to keep track of your progress and submit your assignments.
+
+In addition to creating the repository, also make sure that you've activated Github Pages to host this repository as an online website. You can find the detailed steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). In summary,:
+      * Open your Github repository in the browser and navigate to Settings -> Pages. 
+      * Set the publishing source by selecting the current (main) branch. Make sure your repository contains a `README.md` in the root directory of the main branch.
+      * Click Save. Github takes a few minutes to host the website after which you can refresh to get the link to your hosted website.
+      * Add the link to your hosted website in your `README.md` file. 
+
+## Assignment instructions
+
 The goal of this assignment is to familiarize you with the basics of setting up experiments in jsPsych. 
 
 There are multiple steps to this assignment.  
 
-1. Complete the [Hello World tutorial](https://www.jspsych.org/7.0/tutorials/hello-world/). Use 'Option 1: CDN-hosted scripts.' You do not need to download jsPsych to your own machine.
-2. Complete the [Reaction Time tutorial](https://www.jspsych.org/7.0/tutorials/rt-task/). If you are struggling with this tutorial, or you just want some additional reinforcement of the concepts you are learning, [watch this video tutorial](https://www.youtube.com/watch?v=18NW6jmc6m4). Disregard the very end of the video when the speaker tries to load packages from the local machine. Please stick with the CDN-hosted scripts.
+1. Complete the [Hello World tutorial](https://www.jspsych.org/7.0/tutorials/hello-world/#option-2-download-and-host-jspsych). Use 'Option 2: Download and host jsPsych.' Follow the same directory structure as shown in the example.
+2. Complete the [Reaction Time tutorial](https://www.jspsych.org/7.0/tutorials/rt-task/). If you are struggling with this tutorial, or you just want some additional reinforcement of the concepts you are learning, [watch this video tutorial](https://www.youtube.com/watch?v=18NW6jmc6m4). Disregard the very end of the video when the speaker tries to load packages from the local machine. Please use the downloaded JsPsych library (`MyExperiment/jspsych/`) from previous step to import jspsych scripts instead of using the CDN method.
 3. Create a copy of the reaction time tutorial and name the file `myNewExperiment.html`
 4. Make the following changes to the experiment:
    
@@ -16,9 +29,10 @@ There are multiple steps to this assignment.
 
     * At the end of the experiment, add feedback regarding how fast participants' reaction times were for the blue squares vs. orange circles. 
 
-6. Put all three of the above files into a folder called `jsPsych`.
+6. Put both the experiment html files and the related assets (images) inside the `MyExperiment/` folder (created in step 1), which should also contain your downloaded JsPsych library inside `jspsych/`.
 7. Be sure to add a `README.md` file to this folder so that we can understand anything critical to making your code run.
-8. Push all changes to your individual GitHub repository for final grading.
+8. Also link the experiment to you main `README.md` file in the root directory (outside `MyExperiment/`) using a relative link, like `MyExperiment/myNewExperiment.html`. 
+8. Push all changes to your individual GitHub repository.
 
 ## Assessment
 This assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:
