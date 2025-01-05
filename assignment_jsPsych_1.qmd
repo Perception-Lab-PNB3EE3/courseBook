@@ -28,7 +28,7 @@ All of these provide basic background information on web technologies and progra
 
 #### HTML, CSS, and javascript
 
-- [https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f](https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f)
+- [https://medium.com/\@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f](https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f)
 
 
 #### No-code introduction to programming

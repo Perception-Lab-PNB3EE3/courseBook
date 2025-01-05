@@ -31,7 +31,7 @@ There are multiple steps to this assignment.
 
 6. Put both the experiment html files and the related assets (images) inside the `MyExperiment/` folder (created in step 1), which should also contain your downloaded JsPsych library inside `jspsych/`.
 7. Be sure to add a `README.md` file to this folder so that we can understand anything critical to making your code run.
-8. Also link the experiment to you main `README.md` file in the root directory (outside `MyExperiment/`) using a relative link, like `MyExperiment/myNewExperiment.html`. 
+8. Also link the experiment to your main `README.md` file in the root directory (outside `MyExperiment/`) using a relative link, like `MyExperiment/myNewExperiment.html`. 
 8. Push all changes to your individual GitHub repository.
 
 ## Assessment
