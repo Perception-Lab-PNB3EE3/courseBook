@@ -4,370 +4,209 @@
     "href": "index.html",
     "title": "Perception Lab",
     "section": "",
-    "text": "Welcome\nWelcome to Prof. Dr. Lauren Fink’s Perception Lab (PNB3EE3) course in the Dept. of Psychology, Neuroscience & Behaviour at McMaster University. This is a hands-on, skills-based course to expose you to the “real world” of research related to human perception. Throughout the course, you will research your own topic of interest (using primary scientific literature), design an experiment to test a hypothesis, pre-register your experiment in an industry-standard way, program (using computer code) your experiment, pilot test and simulate data for your experiment, and analyze data from your experiment (using computer code). Prior programming experience is not required but you must have a strong willingness to dive in and learn! We are here to help!\nThe course does not provide a thorough background on what Perception is. You already received that in your second year required coursework. Here, we are more focussed on research skills.",
-    "crumbs": [
-      "Welcome"
-    ]
+    "text": "Welcome\nWelcome to Prof. Dr. Lauren Fink’s Perception Lab (PNB3EE3) course in the Dept. of Psychology, Neuroscience & Behaviour at McMaster University. This is a hands-on, skills-based course to expose you to the “real world” of research related to human perception. Throughout the course, you will research your own topic of interest (using primary scientific literature), design an experiment to test a hypothesis, pre-register your experiment in an industry-standard way, program (using computer code) your experiment, pilot test and simulate data for your experiment, and analyze data from your experiment (using computer code). Prior programming experience is not required but you must have a strong willingness to dive in and learn! We are here to help!\nThe course does not provide a thorough background on what Perception is. You already received that in your second year required coursework. Here, we are more focussed on research skills."
   },
   {
     "objectID": "index.html#learning-goals",
     "href": "index.html#learning-goals",
     "title": "Perception Lab",
     "section": "Learning Goals",
-    "text": "Learning Goals\nUpon completing the course, you should be able to:\n\nExplain the fundamentals of human perception research, including how researchers can measure perceptual experience.\nRead, understand, and critique primary scientific research literature.\nDesign and test your own research ideas, including programming basic perception experiments.\nUnderstand best practices in open science and use relevant tools, like GitHub and jsPsych.\nWork with data; visualize and analyze results.\nWrite, discuss, and review primary research reports.",
-    "crumbs": [
-      "Welcome"
-    ]
+    "text": "Learning Goals\nUpon completing the course, you should be able to:\n\nExplain the fundamentals of human perception research, including how researchers can measure perceptual experience.\nRead, understand, and critique primary scientific research literature.\nDesign and test your own research ideas, including programming basic perception experiments.\nUnderstand best practices in open science and use relevant tools, like GitHub and jsPsych.\nWork with data; visualize and analyze results.\nWrite, discuss, and review primary research reports."
   },
   {
     "objectID": "index.html#course-structure",
     "href": "index.html#course-structure",
     "title": "Perception Lab",
     "section": "Course Structure",
-    "text": "Course Structure\nAll course content and assignments will be posted on this website. However, you will turn in assignments through GitHub. Don’t worry, you don’t need to know what GitHub is yet! We will discuss it in class on day one. The reason we use GitHub, as opposed to Avenue, is because, many researchers around the world use GitHub every day in their scientific workflows, whereas Avenue is a tool somewhat specific to your undergraduate education. We feel that familiarizing you with GitHub early-on will benefit you as you look for research opportunities or even industry jobs in the future.\nThe course outline is here. It contains an overview of all assessment criteria and relevant institutional policies. A more detailed weekly schedule, with deadlines for each assignment is available here.\nEvery week in class, there will be a lecture component and a hands-on component. You are expected to come to class prepared for discussions about the assigned readings and with assignments completed. Often, we will go over assignments together and discuss any points of confusion. Attendance and participation in class is important.\nThe website you are currently viewing is a Quarto book containing all materials for the couse. The book consists of markdown and executable code. A first draft was created for Winter Semester 2025. It is a work in progress and under continual development alongside iterations of the course.\nUse the navigation bar at the left to view course contents by week (number) and topic. While most contents are nested within week, the most important documents (like the course outline) have their own pages.",
-    "crumbs": [
-      "Welcome"
-    ]
+    "text": "Course Structure\nAll course content and assignments will be posted on this website. However, you will turn in assignments through GitHub. Don’t worry, you don’t need to know what GitHub is yet! We will discuss it in class on day one. The reason we use GitHub, as opposed to Avenue, is because, many researchers around the world use GitHub every day in their scientific workflows, whereas Avenue is a tool somewhat specific to your undergraduate education. We feel that familiarizing you with GitHub early-on will benefit you as you look for research opportunities or even industry jobs in the future.\nThe course outline is here. It contains an overview of all assessment criteria and relevant institutional policies. A more detailed weekly schedule, with deadlines for each assignment is available here.\nEvery week in class, there will be a lecture component and a hands-on component. You are expected to come to class prepared for discussions about the assigned readings and with assignments completed. Often, we will go over assignments together and discuss any points of confusion. Attendance and participation in class is important.\nThe website you are currently viewing is a Quarto book containing all materials for the couse. The book consists of markdown and executable code. A first draft was created for Winter Semester 2025. It is a work in progress and under continual development alongside iterations of the course.\nUse the navigation bar at the left to view course contents by week (number) and topic. While most contents are nested within week, the most important documents (like the course outline) have their own pages."
   },
   {
     "objectID": "01-intro.html",
     "href": "01-intro.html",
     "title": "Introduction",
     "section": "",
-    "text": "In the first week of the course, we will set ourselves up for success in the remainder of the course!\nOur goals are to:\n\nintroduce ourselves, and our research interests, to each other\nreview some fundamentals of perception and experimental design\nbecome familiar with the utility of git and GitHub\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the Environment Exercise (linked here).\nAdditionally, please read chapters 1-4 from Experimentology:\n\nChapter 1: Experiments\nChapter 2: Theory\nChapter 3: Replication\nChapter 4: Ethics",
-    "crumbs": [
-      "Week 1",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "exercise_environment.html",
-    "href": "exercise_environment.html",
-    "title": "Environment Exercise",
-    "section": "",
-    "text": "Background learning\nPNB 3EE3; Fink\nThroughout this course, we will be working with code and data. It might be the first time you have ever done these things! That is exciting! Luckily, you do not need to start from scratch. There are many pre-made tools available to help you!\nBefore we get starting downloading and installing tools, it’s important to understand some basics:",
-    "crumbs": [
-      "Week 1",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Environment Exercise</span>"
-    ]
+    "text": "In the first week of the course, we will set ourselves up for success in the remainder of the course!\nOur goals are to:\n\nintroduce ourselves, and our research interests, to each other\nreview some fundamentals of perception and experimental design\nbecome familiar with the utility of git and GitHub\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the Environment Exercise (linked here).\nAdditionally, please read chapters 1-4 from Experimentology:\n\nChapter 1: Experiments\nChapter 2: Theory\nChapter 3: Replication\nChapter 4: Ethics"
   },
   {
     "objectID": "exercise_environment.html#setting-up-your-local-computing-environment",
     "href": "exercise_environment.html#setting-up-your-local-computing-environment",
     "title": "Environment Exercise",
     "section": "Setting up your local computing environment",
-    "text": "Setting up your local computing environment\nNow that you’ve got the appropriate background reading out of the way, let’s get started with the tools we will need for this course! Please follow the steps below before coming to the first class or tutorial.\n\nDownload an integrated development environment (IDE) for working with code. If you already have a preferred IDE, feel free to keep using that one! If this is your first time encountering the idea of an IDE, some nice options are:\n\n\nVisual Studio Code: https://code.visualstudio.com/\nR Studio: https://posit.co/downloads/\n\n\nUsing your terminal or console, make sure git is installed on your machine: https://github.com/git-guides/install-git\nSign up for a GitHub Education account using your McMaster email address: https://github.com/education\n\n\nNOTE: The application process for Github Education takes a few days, so please sign up as soon as you can. GitHub Education gives you lots of nice (free) perks and learning tools!\n\n\nDepending on the IDE you have chosen and your comfort with the command line, you may not want to use any other tools (e.g., many IDEs have built-in integration for git and GitHub). If all of this sounds super confusing, you can use GitHub desktop OR Github CLI to streamline the process of pushing changes from your local machine to the GitHub cloud.\nOn your computer:\n\n\ncreate a new directory (folder) in your Downloads/ location (or any other location that is not synced with an online cloud storage like iCloud or OneDrive). Name the new folder as ‘PNB3EE3’\nwithin this folder, create another folder called ‘Lastname_Firstname_assignments’ – in my case, the folder would be called ‘Fink_Lauren_assignments’\nwithin this folder create a file called ‘environmentAssignment.html’\nopen this file in the IDE you downloaded earlier (in step 1)\nin the environmentAssignment.html file, add the following lines:\n\n        &lt;!DOCTYPE html&gt;\n        &lt;html&gt;\n        &lt;body&gt;\n\n        &lt;h1&gt;My First Heading&lt;/h1&gt;\n        &lt;p&gt;My first paragraph.&lt;/p&gt;\n\n        &lt;/body&gt;\n        &lt;/html&gt;\n\nNow, replace “My First heading” with “What I learned today”.\nNext, replace “My first paragraph” with a few things you learned by completing this tutorial.\n\n\nBe sure to come to the first class with all of the above completed. During the first class, we will discuss all of these concepts further and show you how / where to submit this first exercise. If you’ve run into issues throughout this process, don’t worry, we will help you troubleshoot any issues!",
-    "crumbs": [
-      "Week 1",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Environment Exercise</span>"
-    ]
+    "text": "Setting up your local computing environment\nNow that you’ve got the appropriate background reading out of the way, let’s get started with the tools we will need for this course! Please follow the steps below before coming to the first class or tutorial.\n\nDownload an integrated development environment (IDE) for working with code. If you already have a preferred IDE, feel free to keep using that one! If this is your first time encountering the idea of an IDE, some nice options are:\n\n\nVisual Studio Code: https://code.visualstudio.com/\nR Studio: https://posit.co/downloads/\n\n\nUsing your terminal or console, make sure git is installed on your machine: https://github.com/git-guides/install-git\nSign up for a GitHub Education account using your McMaster email address: https://github.com/education\n\n\nNOTE: The application process for Github Education takes a few days, so please sign up as soon as you can. GitHub Education gives you lots of nice (free) perks and learning tools!\n\n\nDepending on the IDE you have chosen and your comfort with the command line, you may not want to use any other tools (e.g., many IDEs have built-in integration for git and GitHub). If all of this sounds super confusing, you can use GitHub desktop OR Github CLI to streamline the process of pushing changes from your local machine to the GitHub cloud.\nOn your computer:\n\n\ncreate a new directory (folder) in your Downloads/ location (or any other location that is not synced with an online cloud storage like iCloud or OneDrive). Name the new folder as ‘PNB3EE3’\nwithin this folder, create another folder called ‘Lastname_Firstname_assignments’ – in my case, the folder would be called ‘Fink_Lauren_assignments’\nwithin this folder create a file called ‘environmentAssignment.html’\nopen this file in the IDE you downloaded earlier (in step 1)\nin the environmentAssignment.html file, add the following lines:\n\n        &lt;!DOCTYPE html&gt;\n        &lt;html&gt;\n        &lt;body&gt;\n\n        &lt;h1&gt;My First Heading&lt;/h1&gt;\n        &lt;p&gt;My first paragraph.&lt;/p&gt;\n\n        &lt;/body&gt;\n        &lt;/html&gt;\n\nNow, replace “My First heading” with “What I learned today”.\nNext, replace “My first paragraph” with a few things you learned by completing this tutorial.\n\n\nBe sure to come to the first class with all of the above completed. During the first class, we will discuss all of these concepts further and show you how / where to submit this first exercise. If you’ve run into issues throughout this process, don’t worry, we will help you troubleshoot any issues!"
   },
   {
     "objectID": "02-open-research.html",
     "href": "02-open-research.html",
     "title": "Open Research",
     "section": "",
-    "text": "This week we will focus on recommended best practices for transparent and open research.\nOur goals are to:\n\nreview the replication crisis and the importance of open research practices\nunderstand the value of web-based experiments in Psychology\nintroduce web technologies for conducting online experiments\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the jsPsych 1 assignment (linked here).\n\nNOTE: this assignment will require substantial reading and thought - do not put it off until the last minute!\n\nAdditionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project.",
-    "crumbs": [
-      "Week 2",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Research</span>"
-    ]
-  },
-  {
-    "objectID": "assignment_jsPsych_1.html",
-    "href": "assignment_jsPsych_1.html",
-    "title": "jsPsych Assignment 1",
-    "section": "",
-    "text": "Your tasks\nPNB 3EE3; Fink\nThe purpose of this assignment is to get you more familiar with web technologies and why we might want to use the web for perception-related experiments.\nThis is more of a reading, thinking, and practicing exercise. There is no final document to submit besides the reflection questions below. That means that, yes, you could fake doing this assignment by answering the questions below. But–I assure you–your performance in the course will hugely benefit from you taking the time to go through the steps outlined below. We will use jsPsych in the remainder of the course and if you do not form a solid foundation now, all future assignments will be more difficult!",
-    "crumbs": [
-      "Week 2",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>jsPsych Assignment 1</span>"
-    ]
+    "text": "This week we will focus on recommended best practices for transparent and open research.\nOur goals are to:\n\nreview the replication crisis and the importance of open research practices\nunderstand the value of web-based experiments in Psychology\nintroduce web technologies for conducting online experiments\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the jsPsych 1 assignment (linked here).\n\nNOTE: this assignment will require substantial reading and thought - do not put it off until the last minute!\n\nAdditionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project."
   },
   {
     "objectID": "assignment_jsPsych_1.html#your-tasks",
     "href": "assignment_jsPsych_1.html#your-tasks",
     "title": "jsPsych Assignment 1",
-    "section": "",
-    "text": "Read these 2 journal articles:\nThis article provides context for why web-based research is important in psychology. - Reips, U. D. (2021). Web-based research in psychology. Zeitschrift für Psychologie. Available from: https://psycnet.apa.org/fulltext/2022-17584-002.pdf\nThis article introduces jsPsych–a tool for web-based research. - de Leeuw, J. R., Gilbert, R. A., Petrov, N., & Luchterhandt, B. (2023). Simulating behavior to help researchers build experiments. Behavior Research Methods, 55(4), 1863-1873. https://link.springer.com/article/10.3758/s13428-014-0458-y\n\nNOTE: You do not need to go through the tutorial included in the text (We will do a more up to date tutorial later!)\n\n\n\nRead ALL of these short blog posts:\nAll of these provide basic background information on web technologies and programming.\n\nHow does the internet work?\n\nhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work\n\n\n\nHTML, CSS, and javascript\n\nhttps://medium.com/(ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f?)\n\n\n\nNo-code introduction to programming\n\nhttps://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/\n\n\n\nWhat is javascript?\n\nhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript\nhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/A_first_splash\n\n\n\njsPsych plugins\n\nhttps://www.jspsych.org/7.0/overview/plugins/\nhttps://www.jspsych.org/7.0/plugins/list-of-plugins/\n\n\n\n\nAnswer these questions\nPlease answer the following questions (in &lt;= 1 paragraph). Each answer is worth two points. 2 points will be awarded if the answer is coherent and without errors. 1 point will be awarded for a partially correct answer. 0 points for an empty or almost completely incorrect answer. This assignment is worth 8% of your final grade in the course. Generative AI (e.g., chatGPT) should not be used to complete any part of this assignment. These questions should not be difficult if you have read the materials above. If you are having trouble, consider revisiting the readings.\n\nWhat is the difference between closed-source, proprietary code and open-source code?\nWhy should psychologists care about web technologies and open source code?\nPlease briefly describe the difference between HTML, CSS, and javascript. What do each of these do?\nHow would you define data types? Why are they important in computer programming?\nImagine you want to program an experiment where participants need to complete 2 tasks, 10 times each. Using pseudo code, please describe how you would program this task. If you need an example of pseudo code, be sure you have read the no-code introduction to programming above.\nImagine you want to use the visual-search-circle plugin in a jsPsych experiment. Please provide the HTML code required to load jsPsych and this particular plugin. HINT: your answer should only be four lines of code!\n\nTo submit your answers to these questions, please use the following form: https://forms.office.com/r/Y5wtA5B3GS",
-    "crumbs": [
-      "Week 2",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>jsPsych Assignment 1</span>"
-    ]
+    "section": "Your tasks",
+    "text": "Your tasks\n\nRead these 2 journal articles:\nThis article provides context for why web-based research is important in psychology. - Reips, U. D. (2021). Web-based research in psychology. Zeitschrift für Psychologie. Available from: https://psycnet.apa.org/fulltext/2022-17584-002.pdf\nThis article introduces jsPsych–a tool for web-based research. - de Leeuw, J. R., Gilbert, R. A., Petrov, N., & Luchterhandt, B. (2023). Simulating behavior to help researchers build experiments. Behavior Research Methods, 55(4), 1863-1873. https://link.springer.com/article/10.3758/s13428-014-0458-y\n\nNOTE: You do not need to go through the tutorial included in the text (We will do a more up to date tutorial later!)\n\n\n\nRead ALL of these short blog posts:\nAll of these provide basic background information on web technologies and programming.\n\nHow does the internet work?\n\nhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work\n\n\n\nHTML, CSS, and javascript\n\nhttps://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f\n\n\n\nNo-code introduction to programming\n\nhttps://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/\n\n\n\nWhat is javascript?\n\nhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript\nhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/A_first_splash\n\n\n\njsPsych plugins\n\nhttps://www.jspsych.org/7.0/overview/plugins/\nhttps://www.jspsych.org/7.0/plugins/list-of-plugins/\n\n\n\n\nAnswer these questions\nPlease answer the following questions (in &lt;= 1 paragraph). Each answer is worth two points. 2 points will be awarded if the answer is coherent and without errors. 1 point will be awarded for a partially correct answer. 0 points for an empty or almost completely incorrect answer. This assignment is worth 8% of your final grade in the course. Generative AI (e.g., chatGPT) should not be used to complete any part of this assignment. These questions should not be difficult if you have read the materials above. If you are having trouble, consider revisiting the readings.\n\nWhat is the difference between closed-source, proprietary code and open-source code?\nWhy should psychologists care about web technologies and open source code?\nPlease briefly describe the difference between HTML, CSS, and javascript. What do each of these do?\nHow would you define data types? Why are they important in computer programming?\nImagine you want to program an experiment where participants need to complete 2 tasks, 10 times each. Using pseudo code, please describe how you would program this task. If you need an example of pseudo code, be sure you have read the no-code introduction to programming above.\nImagine you want to use the visual-search-circle plugin in a jsPsych experiment. Please provide the HTML code required to load jsPsych and this particular plugin. HINT: your answer should only be four lines of code!\n\nTo submit your answers to these questions, please use the following form: https://forms.office.com/r/Y5wtA5B3GS"
   },
   {
     "objectID": "03-exp-design.html",
     "href": "03-exp-design.html",
     "title": "Experimental Design",
     "section": "",
-    "text": "This week we will focus on various aspects of experimental design and continuing adding to our jsPsych knowledge.\nOur goals are to:\n\nunderstand the choices involved in experimental design\nprogram a first basic experiment in jsPsych\ncontinue discussing perception research\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the jsPsych 2 assignment (linked here).\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nAdditionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project.",
-    "crumbs": [
-      "Week 3",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Experimental Design</span>"
-    ]
+    "text": "This week we will focus on various aspects of experimental design and continuing adding to our jsPsych knowledge.\nOur goals are to:\n\nunderstand the choices involved in experimental design\nprogram a first basic experiment in jsPsych\ncontinue discussing perception research\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the jsPsych assignment 2 (linked here).\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nAdditionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project."
   },
   {
-    "objectID": "assignment_jsPsych_2.html",
-    "href": "assignment_jsPsych_2.html",
+    "objectID": "assignment_jsPsych_2.html#pre-requisites",
+    "href": "assignment_jsPsych_2.html#pre-requisites",
     "title": "jsPsych Assignment 2",
-    "section": "",
-    "text": "Assessment\nPNB 3EE3; Fink\nThe goal of this assignment is to familiarize you with the basics of setting up experiments in jsPsych.\nThere are multiple steps to this assignment.\nThis assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:\nIMPORTANT: Generative AI (e.g., chatGPT) should not be used to complete this assignment.",
-    "crumbs": [
-      "Week 3",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>jsPsych Assignment 2</span>"
-    ]
+    "section": "Pre-requisites",
+    "text": "Pre-requisites\nBefore starting with the assignmet make sure that you’ve successfully created and initialized an individual Github repository. You will use this repository to keep track of your progress and submit your assignments.\nIn addition to creating the repository, also make sure that you’ve activated Github Pages to host this repository as an online website. You can find the detailed steps here. In summary,: * Open your Github repository in the browser and navigate to Settings -&gt; Pages. * Set the publishing source by selecting the current (main) branch. Make sure your repository contains a README.md in the root directory of the main branch. * Click Save. Github takes a few minutes to host the website after which you can refresh to get the link to your hosted website. * Add the link to your hosted website in your README.md file."
+  },
+  {
+    "objectID": "assignment_jsPsych_2.html#assignment-instructions",
+    "href": "assignment_jsPsych_2.html#assignment-instructions",
+    "title": "jsPsych Assignment 2",
+    "section": "Assignment instructions",
+    "text": "Assignment instructions\nThe goal of this assignment is to familiarize you with the basics of setting up experiments in jsPsych.\nThere are multiple steps to this assignment.\n\nComplete the Hello World tutorial. Use ‘Option 2: Download and host jsPsych.’ Follow the same directory structure as shown in the example.\nComplete the Reaction Time tutorial. If you are struggling with this tutorial, or you just want some additional reinforcement of the concepts you are learning, watch this video tutorial. Disregard the very end of the video when the speaker tries to load packages from the local machine. Please use the downloaded JsPsych library (MyExperiment/jspsych/) from previous step to import jspsych scripts instead of using the CDN method.\nCreate a copy of the reaction time tutorial and name the file myNewExperiment.html\nMake the following changes to the experiment:\n\nMake the diameter of the orange circle half of its current diameter.\nChange the blue circle to a blue square.\nAt the end of the experiment, add feedback regarding how fast participants’ reaction times were for the blue squares vs. orange circles.\n\nPut both the experiment html files and the related assets (images) inside the MyExperiment/ folder (created in step 1), which should also contain your downloaded JsPsych library inside jspsych/.\nBe sure to add a README.md file to this folder so that we can understand anything critical to making your code run.\nAlso link the experiment to your main README.md file in the root directory (outside MyExperiment/) using a relative link, like MyExperiment/myNewExperiment.html.\nPush all changes to your individual GitHub repository."
   },
   {
     "objectID": "assignment_jsPsych_2.html#assessment",
     "href": "assignment_jsPsych_2.html#assessment",
     "title": "jsPsych Assignment 2",
-    "section": "",
-    "text": "Completeness (all necessary files submitted in one folder; code accomplishes what it should): 30%\nReproducability (all files can be executed without error): 40%\nDocumentation (code and README.md have been appropriately commented so that others can understand): 30%",
-    "crumbs": [
-      "Week 3",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>jsPsych Assignment 2</span>"
-    ]
+    "section": "Assessment",
+    "text": "Assessment\nThis assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:\n\nCompleteness (all necessary files submitted in one folder; code accomplishes what it should): 30%\nReproducability (all files can be executed without error): 40%\nDocumentation (code and README.md have been appropriately commented so that others can understand): 30%\n\nIMPORTANT: Generative AI (e.g., chatGPT) should not be used to complete this assignment."
   },
   {
     "objectID": "04-data-vis.html",
     "href": "04-data-vis.html",
     "title": "Data Visualization",
     "section": "",
-    "text": "We’ve been discussing how to design an experiment and collect data. But what do you expect the data from your experiment to look like? What should you do with your data once you have it? This week we will discuss best practices in visualization. The topics discussed thisi week will prepare you for later assignments (e.g., Pre-registration, Analysis Code; don’t worry about these yet!).\nOur goals are to:\n\ndiscuss perceptual and cognitive constraints on data visualizations\nlearn to analyze and critique scientific data visualizations\nintroduce available tools for creating visualizations\npractice visualizing data\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the data visualization assignment (linked here).\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nRead Experimentology Ch. 15 (it will help you with the assignment!)\nAdditionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project.",
-    "crumbs": [
-      "Week 4",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Visualization</span>"
-    ]
-  },
-  {
-    "objectID": "assignment_dataVis.html",
-    "href": "assignment_dataVis.html",
-    "title": "Data Visualisation Assignment",
-    "section": "",
-    "text": "Assessment\nPNB 3EE3; Fink\nWhile learning how to code experiments and collect data is a huge part of studying human perception, another massively important aspect is learning how to think about data, visualise it, summarize it, and talk about it.\nIn this assignment, you should use the programming language of your choice (e.g., R, Python, etc.) to do the following:\nThis assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:\nIMPORTANT: Generative AI (e.g., chatGPT) should not be used to complete this assignment.",
-    "crumbs": [
-      "Week 4",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Visualisation Assignment</span>"
-    ]
+    "text": "We’ve been discussing how to design an experiment and collect data. But what do you expect the data from your experiment to look like? What should you do with your data once you have it? This week we will discuss best practices in visualization. The topics discussed thisi week will prepare you for later assignments (e.g., Pre-registration, Analysis Code; don’t worry about these yet!).\nOur goals are to:\n\ndiscuss perceptual and cognitive constraints on data visualizations\nlearn to analyze and critique scientific data visualizations\nintroduce available tools for creating visualizations\npractice visualizing data\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease work through the data visualization assignment (linked here).\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nRead Experimentology Ch. 15 (it will help you with the assignment!)\nAdditionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project."
   },
   {
     "objectID": "assignment_dataVis.html#assessment",
     "href": "assignment_dataVis.html#assessment",
     "title": "Data Visualisation Assignment",
-    "section": "",
-    "text": "Content (the statistics and visualizations make sense for the dataset): 30%\nDocumentation (code has been appropriately commented so that others can understand): 30%\nReflection (clear evidence of critical thinking and meaningful reflection): 40%",
-    "crumbs": [
-      "Week 4",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Visualisation Assignment</span>"
-    ]
+    "section": "Assessment",
+    "text": "Assessment\nThis assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:\n\nContent (the statistics and visualizations make sense for the dataset): 30%\nDocumentation (code has been appropriately commented so that others can understand): 30%\nReflection (clear evidence of critical thinking and meaningful reflection): 40%\n\nIMPORTANT: Generative AI (e.g., chatGPT) should not be used to complete this assignment."
   },
   {
     "objectID": "assignment_dataVis.html#tips-tricks",
     "href": "assignment_dataVis.html#tips-tricks",
     "title": "Data Visualisation Assignment",
     "section": "Tips & Tricks",
-    "text": "Tips & Tricks\nUse this as an opportunity to get more familiar with your programming language of choice and to explore the fundamentals of data visualization! It is my understanding that your PNB coursework already involves R. I also know there is a Python for PNB course some of you may have taken. If you find yourself needing a refresher on either of these languages, there are so many great online resources! Here is a resource on R essentials and here is one on python essentials.\nI highly recommend doing all of your coding in R markdown, Quarto, or a jupyter notebook. Such notebooks allow you to combine natural language with code. Why would you want to do that? Well, imagine you need to communicate your findings to someone else, or you want someone else to be able to reproduce the exact analyses you did. By writing code, creating detailed descriptions, and plotting figures in line, everything you need to do can all be in one place! In research jargon, we sometimes refer to this as a “reproducible workflow” – if you’re interested in learning about such workflows, here is a primer. Note that there are many types of notebooks to choose from, for example, Jupyter Notebooks, Google Collab Notebooks, and R Notebooks. Choose whichever one you are familiar with or which seems most intuitive to you!\nUnder no circumstances should you alter the raw data file. If you need the data table in a different format, read in the provided file and manipulate the dataframe within your programming environment. DO NOT create new raw data files that need to be read in.\nTry to be efficient with your code. If you find yourself copying and pasting the same chunk of code and changing one variable name each time, there is likely a much better way to do things. Here are some issues to look out for and some ways to mitigate them.",
-    "crumbs": [
-      "Week 4",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Visualisation Assignment</span>"
-    ]
+    "text": "Tips & Tricks\nUse this as an opportunity to get more familiar with your programming language of choice and to explore the fundamentals of data visualization! It is my understanding that your PNB coursework already involves R. I also know there is a Python for PNB course some of you may have taken. If you find yourself needing a refresher on either of these languages, there are so many great online resources! Here is a resource on R essentials and here is one on python essentials.\nI highly recommend doing all of your coding in R markdown, Quarto, or a jupyter notebook. Such notebooks allow you to combine natural language with code. Why would you want to do that? Well, imagine you need to communicate your findings to someone else, or you want someone else to be able to reproduce the exact analyses you did. By writing code, creating detailed descriptions, and plotting figures in line, everything you need to do can all be in one place! In research jargon, we sometimes refer to this as a “reproducible workflow” – if you’re interested in learning about such workflows, here is a primer. Note that there are many types of notebooks to choose from, for example, Jupyter Notebooks, Google Collab Notebooks, and R Notebooks. Choose whichever one you are familiar with or which seems most intuitive to you!\nUnder no circumstances should you alter the raw data file. If you need the data table in a different format, read in the provided file and manipulate the dataframe within your programming environment. DO NOT create new raw data files that need to be read in.\nTry to be efficient with your code. If you find yourself copying and pasting the same chunk of code and changing one variable name each time, there is likely a much better way to do things. Here are some issues to look out for and some ways to mitigate them."
   },
   {
     "objectID": "05-pre-reg.html",
     "href": "05-pre-reg.html",
     "title": "Pre-registration",
     "section": "",
-    "text": "Everything we’ve discussed so far in the course should have prepared you for this week: Pre-registration. Pre-registration is the act of publishing an experimental design, data collection, and analysis plan, before conducting an experiment.\nAfter reading week, you will turn in the Pre-registration assignment. This week we prepare you with everything you will need to complete that assignment! You still have a few weeks to refine your experimental design and interests. Be sure you are simultaneously researching your topic of interest and working on this pre-registration between now and the submission deadline.\nOur goals are to:\n\nunderstand what pre-registration is and when and why to do it\ndiscuss what goes into a pre-registration\nbegin developing a pre-registration for your own experiment\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease begin the pre-registration assignment (linked here).\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nRead Experimentology Ch. 11 (it will help you with the assignment!)\nImportantly, please continue refining your research topic.",
-    "crumbs": [
-      "Week 5",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pre-registration</span>"
-    ]
-  },
-  {
-    "objectID": "assignment_preregistration.html",
-    "href": "assignment_preregistration.html",
-    "title": "Pre-registration Assignment",
-    "section": "",
-    "text": "Objectives:\nPNB 3EE3; Fink\nIn this assignment, you should pre-register an experiment that you will later create using jsPsych. In other words, your experiment should be one that involves an individual using a web browser, not, for example, a social group experiment.",
-    "crumbs": [
-      "Week 5",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Pre-registration Assignment</span>"
-    ]
+    "text": "Everything we’ve discussed so far in the course should have prepared you for this week: Pre-registration. Pre-registration is the act of publishing an experimental design, data collection, and analysis plan, before conducting an experiment.\nAfter reading week, you will turn in the Pre-registration assignment. This week we prepare you with everything you will need to complete that assignment! You still have a few weeks to refine your experimental design and interests. Be sure you are simultaneously researching your topic of interest and working on this pre-registration between now and the submission deadline.\nOur goals are to:\n\nunderstand what pre-registration is and when and why to do it\ndiscuss what goes into a pre-registration\nbegin developing a pre-registration for your own experiment\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nPlease begin the pre-registration assignment (linked here).\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nRead Experimentology Ch. 11 (it will help you with the assignment!)\nImportantly, please continue refining your research topic."
   },
   {
     "objectID": "assignment_preregistration.html#objectives",
     "href": "assignment_preregistration.html#objectives",
     "title": "Pre-registration Assignment",
-    "section": "",
-    "text": "Describe the background motivation for your project. Think about how your experiment is positioned in the literature.\nDescribe the proposed experimental methods in sufficient detail that others will be able to recreate the experiment you are proposing.\nThink through and describe the analyses you will conduct once you have your data, as well as how you will collect your data and from whom.",
-    "crumbs": [
-      "Week 5",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Pre-registration Assignment</span>"
-    ]
+    "section": "Objectives:",
+    "text": "Objectives:\n\nDescribe the background motivation for your project. Think about how your experiment is positioned in the literature.\nDescribe the proposed experimental methods in sufficient detail that others will be able to recreate the experiment you are proposing.\nThink through and describe the analyses you will conduct once you have your data, as well as how you will collect your data and from whom."
   },
   {
     "objectID": "assignment_preregistration.html#submission-requirements",
     "href": "assignment_preregistration.html#submission-requirements",
     "title": "Pre-registration Assignment",
     "section": "Submission requirements:",
-    "text": "Submission requirements:\n\nFill out this standard OSF pre-registration template with your research plans. I have created a markdown version of this document for you so that you do not need to worry about copy-pasting the OSF template into your markdown notebook. Please use the markdown template here.\nIn the ‘Description’ section, be sure to provide the context and relevant background literature for your experiment. Have you appropriately motivated your experiment in the context of those that have come before it? What have others done? Why is there still more work to be done? What are previous studies missing? You need to define your research gap! Your description should be clear to a trained non-expert. Please be sure to provide at least 10 references from peer-reviewed academic journals. This background section should be 3-5 paragraphs.\n\nNOTE: there are a few different approaches to incorporating references into a notebook. We will discuss together in class.\n\nClearly and thoroughly describe your research materials and design, with no ambiguity or omission.\nMake sure your stated hypotheses are clearly motivated by the background literature / theory you provide. Planned analyses must logically follow from the stated hypotheses. Your answers should be clear, logical, and thorough.\nFor sections about sample size and data collection methods, write as if you were designing an ideal experiment, with no limitations on who / how you can reach people. We are interested in how well you can think through an ideal experiment.\n\n\nAssessment Criteria\nThis pre-registration is worth 20% of your final course grade. The breakdown of grading for this assignment is as follows:\n\nCompleteness (all sections completed and organized according to template): 10%\nClarity (external readers can understand your design and have enough details to replicate it): 60%\nNovelty and logic (your experiment contributes something new to the literature and is logically designed): 30%\n\nIMPORTANT: Generative AI (e.g., chatGPT) should not be used to complete this assignment.",
-    "crumbs": [
-      "Week 5",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Pre-registration Assignment</span>"
-    ]
+    "text": "Submission requirements:\n\nFill out this standard OSF pre-registration template with your research plans. I have created a markdown version of this document for you so that you do not need to worry about copy-pasting the OSF template into your markdown notebook. Please use the markdown template here.\nIn the ‘Description’ section, be sure to provide the context and relevant background literature for your experiment. Have you appropriately motivated your experiment in the context of those that have come before it? What have others done? Why is there still more work to be done? What are previous studies missing? You need to define your research gap! Your description should be clear to a trained non-expert. Please be sure to provide at least 10 references from peer-reviewed academic journals. This background section should be 3-5 paragraphs.\n\nNOTE: there are a few different approaches to incorporating references into a notebook. We will discuss together in class.\n\nClearly and thoroughly describe your research materials and design, with no ambiguity or omission.\nMake sure your stated hypotheses are clearly motivated by the background literature / theory you provide. Planned analyses must logically follow from the stated hypotheses. Your answers should be clear, logical, and thorough.\nFor sections about sample size and data collection methods, write as if you were designing an ideal experiment, with no limitations on who / how you can reach people. We are interested in how well you can think through an ideal experiment.\n\n\nAssessment Criteria\nThis pre-registration is worth 20% of your final course grade. The breakdown of grading for this assignment is as follows:\n\nCompleteness (all sections completed and organized according to template): 10%\nClarity (external readers can understand your design and have enough details to replicate it): 60%\nNovelty and logic (your experiment contributes something new to the literature and is logically designed): 30%\n\nIMPORTANT: Generative AI (e.g., chatGPT) should not be used to complete this assignment."
   },
   {
     "objectID": "06-open-data.html",
     "href": "06-open-data.html",
     "title": "Open data",
     "section": "",
-    "text": "This week we will get into the weeds about data. Danica Evering from McMaster’s Research Data Management Services will join us for a lively discussion and in-class exercise using one of McMaster’s recently developed data exploration tools.\nOur goals are to:\n\nunderstand what is meant by open data, as well as potential barriers to publishing open data\ndiscuss best practices in data management\nexplore the wealth of datasets freely available online\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nBy now, you should be at least partially done with the pre-registration assignment. Do not forget that it is due after reading week, before our next class!\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nRead Experimentology Ch. 11, if you haven’t already.",
-    "crumbs": [
-      "Week 6",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Open data</span>"
-    ]
+    "text": "This week we will get into the weeds about data. Danica Evering from McMaster’s Research Data Management Services will join us for a lively discussion and in-class exercise using one of McMaster’s recently developed data exploration tools.\nOur goals are to:\n\nunderstand what is meant by open data, as well as potential barriers to publishing open data\ndiscuss best practices in data management\nexplore the wealth of datasets freely available online\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nBy now, you should be at least partially done with the pre-registration assignment. Do not forget that it is due after reading week, before our next class!\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nRead Experimentology Ch. 11, if you haven’t already."
   },
   {
     "objectID": "07-exp-programming.html",
     "href": "07-exp-programming.html",
     "title": "Programming your experiment",
     "section": "",
-    "text": "This week we will discuss how to translate your pre-registered experimental design into experiment presentation code in jsPsych. First we will map out the full experiment in pseudo code, then we will get into the weeds of how to implement the experiment in jsPsych. We will also discuss the importance of instructions and the user interface of the experiment.\nOur goals are to:\n\ncontinue refining knowledge of jsPsych\ndevelop instructions for proposed tasks\nthink through output variables and data formatting\nprogram an experiment from start to finish\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nBegin working on the Experiment Code assignment. You will have two weeks to get this completed.\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous jsPsych readings and assignments; don’t be afriad to ask your peers or instructors for help!",
-    "crumbs": [
-      "Week 7",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Programming your experiment</span>"
-    ]
-  },
-  {
-    "objectID": "assignment_experiment_code.html",
-    "href": "assignment_experiment_code.html",
-    "title": "Experiment Presentation Code",
-    "section": "",
-    "text": "Assessment\nPNB 3EE3; Fink\nMany tools exist for creating research experiments. Some of these tools are GUI-based (GUI stands for graphical user interface), meaning that the user (you, the researcher!) only needs to point and click and drag things around. However, such tools hide what’s going on “behind the scenes.”\nFor the sake of this course, and your own development as a researcher, it is important to understand how code works. Why? Well, you need to understand the limitations of your methods and you need to be able to communicate with others. For example, even if you never write code again after this course, you might have a human programmer or even chatGPT write code for you–how do you know what to ask for? You at least need to be able to describe and discuss how code works and understand how to use code to accomplish tasks.\nSome people in your class may have more programming experience than others - that is great! You can all learn from each other! Coding is a social process. I encourage all of you to work together, to learn from each other, and review each others’ work. If you need more convincing that coding is social, read this. And if you want to explore that linked book further, you will find some great recommendations for writing good research code (though note that the book is mostly focussed on Python).\nFor this assignment, your experiment code should:",
-    "crumbs": [
-      "Week 7",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment Presentation Code</span>"
-    ]
+    "text": "This week we will discuss how to translate your pre-registered experimental design into experiment presentation code in jsPsych. First we will map out the full experiment in pseudo code, then we will get into the weeds of how to implement the experiment in jsPsych. We will also discuss the importance of instructions and the user interface of the experiment.\nOur goals are to:\n\ncontinue refining knowledge of jsPsych\ndevelop instructions for proposed tasks\nthink through output variables and data formatting\nprogram an experiment from start to finish\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nBegin working on the Experiment Code assignment. You will have two weeks to get this completed.\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous jsPsych readings and assignments; don’t be afriad to ask your peers or instructors for help!"
   },
   {
     "objectID": "assignment_experiment_code.html#assessment",
     "href": "assignment_experiment_code.html#assessment",
     "title": "Experiment Presentation Code",
-    "section": "",
-    "text": "Completeness (all necessary files submitted): 10%\nReproducability (experiment can be executed without error; data required for subsequent analyses are properly saved: 30%)\nLogic / Clarity (experiment user interface and timeline is intuitive; instructions make sense; questions are clear, etc.): 20%\nDocumentation. There are two aspects: 1) the code has been appropriately commented so that others can understand it (20%). 2) a clear and organized README.md file is included instructructing others how to use and interact with your code (20%).",
-    "crumbs": [
-      "Week 7",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Experiment Presentation Code</span>"
-    ]
+    "section": "Assessment",
+    "text": "Assessment\n\nCompleteness (all necessary files submitted): 10%\nReproducability (experiment can be executed without error; data required for subsequent analyses are properly saved: 30%)\nLogic / Clarity (experiment user interface and timeline is intuitive; instructions make sense; questions are clear, etc.): 20%\nDocumentation. There are two aspects: 1) the code has been appropriately commented so that others can understand it (20%). 2) a clear and organized README.md file is included instructructing others how to use and interact with your code (20%)."
   },
   {
     "objectID": "08-poster.html",
     "href": "08-poster.html",
     "title": "Creating a research poster",
     "section": "",
-    "text": "This week we will provide you with background knowledge and skills required for the final poster presentation (happening during the last week of the course).\nOur goals are to:\n\nunderstand the function of a research poster\ndiscuss norms in designing and presenting posters\nexplore tools for creating posters\nworkshop the beginnings of your research poster\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nFinish up your Experiment Code assignment, due before the next class!\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous jsPsych readings and assignments; don’t be afriad to ask your peers or instructors for help!",
-    "crumbs": [
-      "Week 8",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Creating a research poster</span>"
-    ]
+    "text": "This week we will provide you with background knowledge and skills required for the final poster presentation (happening during the last week of the course).\nOur goals are to:\n\nunderstand the function of a research poster\ndiscuss norms in designing and presenting posters\nexplore tools for creating posters\nworkshop the beginnings of your research poster\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nFinish up your Experiment Code assignment, due before the next class!\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous jsPsych readings and assignments; don’t be afriad to ask your peers or instructors for help!"
   },
   {
     "objectID": "09-data-analyses.html",
     "href": "09-data-analyses.html",
     "title": "Data Analyses",
     "section": "",
-    "text": "This week we will focus on data analysis. You have already coded your experiment and made sure that all of the data you need from the experiment is properly output. Now its time to analyze simulated data from your experiment!\nOur goals are to:\n\nunderstand the importance of simulating data and planning analyses\nreview data visualization best practices\napply statistical knowledge from other required courses\nworkshop the beginnings of your analysis notebook\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nBegin working on your analysis code. You will have two weeks to complete this assignment.\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous data visualization assignment, as well as materials from the statistics courses you have already taken for your degree. Don’t be afriad to ask your peers or instructors for help!",
-    "crumbs": [
-      "Week 9",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Analyses</span>"
-    ]
+    "text": "This week we will focus on data analysis. You have already coded your experiment and made sure that all of the data you need from the experiment is properly output. Now its time to analyze simulated data from your experiment!\nOur goals are to:\n\nunderstand the importance of simulating data and planning analyses\nreview data visualization best practices\napply statistical knowledge from other required courses\nworkshop the beginnings of your analysis notebook\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nBegin working on your analysis code. You will have two weeks to complete this assignment.\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous data visualization assignment, as well as materials from the statistics courses you have already taken for your degree. Don’t be afriad to ask your peers or instructors for help!"
   },
   {
-    "objectID": "assignment_analysis_code.html",
-    "href": "assignment_analysis_code.html",
+    "objectID": "assignment_analysis_code.html#what-to-do",
+    "href": "assignment_analysis_code.html#what-to-do",
     "title": "Data analysis code",
-    "section": "",
-    "text": "What to do\nPNB 3EE3; Fink\nIn the age of Open Science and Reproducability, it is becoming fairly standard practice that analysis code is submitted alongside papers for publication. The idea is that the papers’ claims rely on the analysis code and others should be able to reproduce the results exactly. With this goal in mind, the code you write to analyse the data from your experiment should be well-documented and reproducible.\nFor the sake of this course, the easiest way to accomplish the goal of creating understandable, reproducible code is to use the ‘notebook’ format, which allows you to intersperse chunks of code with chunks of text (markdown). There are many notebooks to choose from: Jupyter Notebooks, Google Collab Notebooks, R Notebooks, etc. You are free to use whichever tool is most comfortable for you.\nBelow are some examples of final analysis repositories from my own research: * https://github.com/lkfink/Kentler_MIM_Behavior * https://github.com/lkfink/pupilTutorial * https://github.com/lkfink/Dundun2_labels * https://github.com/janatalab/GEM-Experiments-POC * https://github.com/lkfink/CMQ\nNone of these are perfect (I am still learning too!); they are here to provide some examples/inspiration.\nYour analysis code should follow your pre-registered data analysis plan. Be sure to write the code for all the analyses you proposed, including any exploratory analyses (as registered or now desired). Also be sure to include visualizations. In addition to visualizing your main findings, you might also want to produce visuals to ensure your data meet certain assumptions or that your experimental conditions were balanced as intended.\nYou should organize your analysis notebook logically, providing heading and descriptive text, notes, and comments where necessary. Someone unfamiliar with your analysis plan should be able to look at your notebook and understand what is going on and what it means.\nYou will run your analysis code on data we will simulate together in class for your experiment.",
-    "crumbs": [
-      "Week 9",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Data analysis code</span>"
-    ]
+    "section": "What to do",
+    "text": "What to do\nYour analysis code should follow your pre-registered data analysis plan. Be sure to write the code for all the analyses you proposed, including any exploratory analyses (as registered or now desired). Also be sure to include visualizations. In addition to visualizing your main findings, you might also want to produce visuals to ensure your data meet certain assumptions or that your experimental conditions were balanced as intended.\nYou should organize your analysis notebook logically, providing heading and descriptive text, notes, and comments where necessary. Someone unfamiliar with your analysis plan should be able to look at your notebook and understand what is going on and what it means.\nYou will run your analysis code on data we will simulate together in class for your experiment."
   },
   {
     "objectID": "assignment_analysis_code.html#assessment",
     "href": "assignment_analysis_code.html#assessment",
     "title": "Data analysis code",
     "section": "Assessment",
-    "text": "Assessment\nThis assignment is worth 10% of your overall course grade. A breakdown of assessment criteria for this assignment is provided below. Your final analysis code should:\n\nbe executable from start to finish (meaning your notebook will likely ‘live’ in a repository that also contains your final data table required for analyses, as well as a README, etc.): 20%\nbe well-commented (use the increased functionality and markdown formatting of these notebooks to take your reader on a logical journey of why you did the analyses you did. Be sure to include any considerations or notes you feel important): 20%\ninclude compelling in-line visuals that make sense for your data: 30%\ninclude statistical tests appropriate for your data: 30%",
-    "crumbs": [
-      "Week 9",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Data analysis code</span>"
-    ]
+    "text": "Assessment\nThis assignment is worth 10% of your overall course grade. A breakdown of assessment criteria for this assignment is provided below. Your final analysis code should:\n\nbe executable from start to finish (meaning your notebook will likely ‘live’ in a repository that also contains your final data table required for analyses, as well as a README, etc.): 20%\nbe well-commented (use the increased functionality and markdown formatting of these notebooks to take your reader on a logical journey of why you did the analyses you did. Be sure to include any considerations or notes you feel important): 20%\ninclude compelling in-line visuals that make sense for your data: 30%\ninclude statistical tests appropriate for your data: 30%"
   },
   {
     "objectID": "10-peer-review.html",
     "href": "10-peer-review.html",
     "title": "Peer Review",
     "section": "",
-    "text": "This week we will focus on critiquing each other’s planned analyses and poster drafts.\nOur goals are to:\n\ncontinue refining our understanding of what goes into a research poster\ncontinue refining our understanding of data analysis and visualization\npractice giving effective peer feedback\nlearn from each others’ comments\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nFinish your analysis code. It is due before the next class!\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous data visualization assignment, as well as materials from the statistics courses you have already taken for your degree. Don’t be afriad to ask your peers or instructors for help!\nContinue preparing for your final poster presentation. Be sure to come to the next class with a draft of your poster. It’s ok if the analysis section isn’t done yet, but most other aspects can be completed by now.",
-    "crumbs": [
-      "Week 10",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Peer Review</span>"
-    ]
+    "text": "This week we will focus on critiquing each other’s planned analyses and poster drafts.\nOur goals are to:\n\ncontinue refining our understanding of what goes into a research poster\ncontinue refining our understanding of data analysis and visualization\npractice giving effective peer feedback\nlearn from each others’ comments\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nFinish your analysis code. It is due before the next class!\n\nNOTE: this assignment will require substantial effort - do not put it off until the last minute!\n\nIf you are struggling with this assignment, go back to the previous data visualization assignment, as well as materials from the statistics courses you have already taken for your degree. Don’t be afriad to ask your peers or instructors for help!\nContinue preparing for your final poster presentation. Be sure to come to the next class with a draft of your poster. It’s ok if the analysis section isn’t done yet, but most other aspects can be completed by now."
   },
   {
-    "objectID": "assignment_poster.html",
-    "href": "assignment_poster.html",
+    "objectID": "assignment_poster.html#what-software-to-use",
+    "href": "assignment_poster.html#what-software-to-use",
     "title": "Poster Presentation Assignment",
-    "section": "",
-    "text": "What software to use\nPerception Lab will culminate with each student giving a 6 minute poster presentation (4 minute presentation + 2 mins for discussion). The poster is your chance to integrate everything you have learned throughout the course. It should include background motivation for your pre-registered experiment, your proposed methods, you statistical results and data visualizations from your simulated data, and a discussion about the implications of your research.\nYou are free to use whatever software tool you like for this assignment. If you have gotten really into coding in R and reproducible workflows throughout this course, you could use posterdown; this blog post will give you a quick intro. Or, if you are really sick of code and dealing with unfamiliar tools, you can use powerpoint to make your poster. McMaster library provides free powerpoint poster templates; note that you will need to be logged in via VPN and macid. You are also welcome to explore other online resources and find something that suites your own aesthetic preferences, or to develop your own poster from scratch. Just be sure that the visual design is intuitive, fonts and font sizes are readable, etc. The software you use does not factor into your grade for this assignment. Just be sure your visual design, content, and spoken presentation meet the assessment criteria in the provided rubric.",
-    "crumbs": [
-      "Week 10",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Poster Presentation Assignment</span>"
-    ]
+    "section": "What software to use",
+    "text": "What software to use\nYou are free to use whatever software tool you like for this assignment. If you have gotten really into coding in R and reproducible workflows throughout this course, you could use posterdown; this blog post will give you a quick intro. Or, if you are really sick of code and dealing with unfamiliar tools, you can use powerpoint to make your poster. McMaster library provides free powerpoint poster templates; note that you will need to be logged in via VPN and macid. You are also welcome to explore other online resources and find something that suites your own aesthetic preferences, or to develop your own poster from scratch. Just be sure that the visual design is intuitive, fonts and font sizes are readable, etc. The software you use does not factor into your grade for this assignment. Just be sure your visual design, content, and spoken presentation meet the assessment criteria in the provided rubric."
   },
   {
     "objectID": "assignment_poster.html#assessment",
     "href": "assignment_poster.html#assessment",
     "title": "Poster Presentation Assignment",
     "section": "Assessment",
-    "text": "Assessment\nA full rubric for the poster presentation is in the course outline (page 3).",
-    "crumbs": [
-      "Week 10",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Poster Presentation Assignment</span>"
-    ]
+    "text": "Assessment\nA full rubric for the poster presentation is in the course outline (page 3)."
   },
   {
     "objectID": "11-iteration.html",
     "href": "11-iteration.html",
     "title": "Iteration",
     "section": "",
-    "text": "In case you haven’t realized by now, research, writing, data analyses, etc. all require multiple rounds of iteration. In this class we will discuss how your idea of research has evolved throughout the course, and how your pre-registration might require changes based on what you have learned after programming your experiment and simulating data.\nOur goals are to:\n\nunderstand the importance of iteration in all aspects of scientific research\niterate on poster drafts\npractice poster presentations with peers\nlearn through peer feedback\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nYour final poster presentation will happen next class.",
-    "crumbs": [
-      "Week 11",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Iteration</span>"
-    ]
+    "text": "In case you haven’t realized by now, research, writing, data analyses, etc. all require multiple rounds of iteration. In this class we will discuss how your idea of research has evolved throughout the course, and how your pre-registration might require changes based on what you have learned after programming your experiment and simulating data.\nOur goals are to:\n\nunderstand the importance of iteration in all aspects of scientific research\niterate on poster drafts\npractice poster presentations with peers\nlearn through peer feedback\n\nSlides from this week are available here: [NOTE: Will be updated as course progresses]\n\n\n\n\n\n\nAssignments and Exercises\n\n\n\nBefore next class\nYour final poster presentation will happen next class."
   },
   {
-    "objectID": "12-wrap-up.html",
-    "href": "12-wrap-up.html",
+    "objectID": "12-wrap-up.html#feedback",
+    "href": "12-wrap-up.html#feedback",
     "title": "Wrap-up",
-    "section": "",
-    "text": "Feedback\nCongratulations! You’ve made it to the final week of the course! I hope you are proud of your efforts and all you’ve accomplished throughout this term! You engaged in industry-standard best practices in open research, from experiment pre-registration to programming an experiment, to analyzing data. You also got to explore a research topic of your own choosing! You might, for example, want to take the pre-registration from this course and use it to guide an independent or thesis project next semester or academic year.\nThis week you get to show off all you’ve learned about your topic and your experiment and data analysis plan through your final poster presentation. We all look forward to seeing them!\nWe continually seek to improve this course! If there are aspects of this book or any of the assignments that can be improved, please feel free to suggests changes via a pull request or issue on GitHub or directly to Dr. Fink via email.",
-    "crumbs": [
-      "Week 12",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Wrap-up</span>"
-    ]
+    "section": "Feedback",
+    "text": "Feedback\nWe continually seek to improve this course! If there are aspects of this book or any of the assignments that can be improved, please feel free to suggests changes via a pull request or issue on GitHub or directly to Dr. Fink via email."
   },
   {
     "objectID": "12-wrap-up.html#reflection",
     "href": "12-wrap-up.html#reflection",
     "title": "Wrap-up",
     "section": "Reflection",
-    "text": "Reflection\nIf you would like to recieve 1 bonus percentage point towards your final grade, you can include a reflection in your individual repository. Further instructions are here.",
-    "crumbs": [
-      "Week 12",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Wrap-up</span>"
-    ]
+    "text": "Reflection\nIf you would like to recieve 1 bonus percentage point towards your final grade, you can include a reflection in your individual repository. Further instructions are here."
   }
 ]
