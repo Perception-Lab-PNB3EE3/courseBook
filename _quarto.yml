@@ -56,6 +56,7 @@ book:
     - part: "Week 12"
       chapters: 
         - 12-wrap-up.qmd
+    - resources.qmd
 
 
 bibliography: references.bib
