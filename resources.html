@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Perception Lab - Environment Exercise</title>
+<title>Perception Lab - Resources</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./02-open-research.html" rel="next">
-<link href="./01-intro.html" rel="prev">
+<link href="./12-wrap-up.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -75,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-intro.html">Week 1</a></li><li class="breadcrumb-item"><a href="./exercise_environment.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Environment Exercise</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./resources.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Resources</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -143,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./exercise_environment.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Environment Exercise</span></a>
+  <a href="./exercise_environment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Environment Exercise</span></a>
   </div>
 </li>
       </ul>
@@ -361,7 +360,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Resources</span></a>
+  <a href="./resources.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Resources</span></a>
   </div>
 </li>
     </ul>
@@ -374,17 +373,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#background-learning" id="toc-background-learning" class="nav-link active" data-scroll-target="#background-learning">Background learning</a></li>
-  <li><a href="#setting-up-your-local-computing-environment" id="toc-setting-up-your-local-computing-environment" class="nav-link" data-scroll-target="#setting-up-your-local-computing-environment">Setting up your local computing environment</a></li>
+  <li><a href="#jspsych" id="toc-jspsych" class="nav-link active" data-scroll-target="#jspsych">jsPsych:</a></li>
+  <li><a href="#r" id="toc-r" class="nav-link" data-scroll-target="#r">R:</a></li>
+  <li><a href="#experimental-design" id="toc-experimental-design" class="nav-link" data-scroll-target="#experimental-design">Experimental Design</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/edit/main/exercise_environment.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/blob/main/exercise_environment.qmd" class="toc-action">View source</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/edit/main/resources.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/blob/main/resources.qmd" class="toc-action">View source</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Environment Exercise</span></h1>
+<h1 class="title"><span class="chapter-title">Resources</span></h1>
 </div>
 
 
@@ -399,82 +399,34 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>PNB 3EE3; Fink</p>
-<section id="background-learning" class="level3">
-<h3 class="anchored" data-anchor-id="background-learning">Background learning</h3>
-<p>Throughout this course, we will be working with code and data. It might be the first time you have ever done these things! That is exciting! Luckily, you do not need to start from scratch. There are many pre-made tools available to help you!</p>
-<p>Before we get starting downloading and installing tools, it’s important to understand some basics:</p>
-<section id="the-difference-between-your-local-computer-and-the-cloud" class="level4">
-<h4 class="anchored" data-anchor-id="the-difference-between-your-local-computer-and-the-cloud">The difference between your local computer and the cloud:</h4>
+<p>Below are resources organized by topic: jsPsych, R, and Experimental Design. If any of you come across a great resource not listed here, please feel free to create a pull request to add it!</p>
+<section id="jspsych" class="level2">
+<h2 class="anchored" data-anchor-id="jspsych">jsPsych:</h2>
 <ul>
-<li><a href="https://www.geeksforgeeks.org/difference-between-cloud-computing-and-traditional-computing/">https://www.geeksforgeeks.org/difference-between-cloud-computing-and-traditional-computing/</a></li>
+<li>The online documentation is a great resource. For example, you can check out references like this one: <a href="https://www.jspsych.org/7.3/reference/jspsych-randomization/">https://www.jspsych.org/7.3/reference/jspsych-randomization/</a> or this one: <a href="https://www.jspsych.org/7.3/plugins/survey-multi-choice/">https://www.jspsych.org/7.3/plugins/survey-multi-choice/</a></li>
+<li>This page links lots of additional tutorials and lectures you can watch: <a href="https://www.jspsych.org/7.3/tutorials/video-tutorials/">https://www.jspsych.org/7.3/tutorials/video-tutorials/</a></li>
+<li>You can also check out plugins written by other researchers. For example, here is a paper describing a psychophysics plugin: <a href="https://link.springer.com/article/10.3758/s13428-020-01445-w">https://link.springer.com/article/10.3758/s13428-020-01445-w</a>
+<ul>
+<li>And here is the code tutorial to accompany that paper: <a href="https://jspsychophysics.hes.kyushu-u.ac.jp/">https://jspsychophysics.hes.kyushu-u.ac.jp/</a></li>
+</ul></li>
+<li>And here is a paper from the original authors of jsPsych, talking about a new simulation mode they have built: <a href="https://osf.io/preprints/psyarxiv/mq345">https://osf.io/preprints/psyarxiv/mq345</a>
+<ul>
+<li>The code: <a href="https://jspsych.github.io/simulation-examples/">https://jspsych.github.io/simulation-examples/</a></li>
+</ul></li>
 </ul>
 </section>
-<section id="using-the-command-line" class="level4">
-<h4 class="anchored" data-anchor-id="using-the-command-line">Using the command line:</h4>
+<section id="r" class="level2">
+<h2 class="anchored" data-anchor-id="r">R:</h2>
 <ul>
-<li><a href="https://tutorial.djangogirls.org/en/intro_to_command_line/">https://tutorial.djangogirls.org/en/intro_to_command_line/</a></li>
-<li><a href="https://www.freecodecamp.org/news/command-line-for-beginners/">https://www.freecodecamp.org/news/command-line-for-beginners/</a></li>
+<li>R for Psych: <a href="https://glennwilliams.me/r4psych/">https://glennwilliams.me/r4psych/</a></li>
+<li>R graphics cookbook: <a href="https://r-graphics.org/">https://r-graphics.org/</a></li>
+<li>R for data science: <a href="https://r4ds.hadley.nz/">https://r4ds.hadley.nz/</a></li>
+<li>All of the above are books with excellent tutorials that you can work through at your own pace. I highly encourage you to check out these resources, as they will show you how to do everything you could possibly need to do with your data this semester.</li>
 </ul>
-<blockquote class="blockquote">
-<p>NOTE: read through this but don’t worry about stepping through the scripting example at the end</p>
-</blockquote>
 </section>
-<section id="git-vs.-github" class="level4">
-<h4 class="anchored" data-anchor-id="git-vs.-github">Git vs.&nbsp;GitHub:</h4>
-<ul>
-<li><a href="https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them">https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them</a></li>
-<li><a href="https://experimentology.io/101-github.html">https://experimentology.io/101-github.html</a></li>
-</ul>
-<blockquote class="blockquote">
-<p>NOTE: read through this but don’t worry about stepping through the scripting example at the end</p>
-</blockquote>
-</section>
-</section>
-<section id="setting-up-your-local-computing-environment" class="level2">
-<h2 class="anchored" data-anchor-id="setting-up-your-local-computing-environment">Setting up your local computing environment</h2>
-<p>Now that you’ve got the appropriate background reading out of the way, let’s get started with the tools we will need for this course! Please follow the steps below before coming to the first class or tutorial.</p>
-<ol type="1">
-<li>Download an integrated development environment (IDE) for working with code. If you already have a preferred IDE, feel free to keep using that one! If this is your first time encountering the idea of an IDE, some nice options are:</li>
-</ol>
-<ul>
-<li>Visual Studio Code: <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
-<li>R Studio: <a href="https://posit.co/downloads/">https://posit.co/downloads/</a></li>
-</ul>
-<ol start="2" type="1">
-<li><p>Using your terminal or console, make sure git is installed on your machine: <a href="https://github.com/git-guides/install-git">https://github.com/git-guides/install-git</a></p></li>
-<li><p>Sign up for a GitHub Education account using your McMaster email address: <a href="https://github.com/education">https://github.com/education</a></p></li>
-</ol>
-<blockquote class="blockquote">
-<p>NOTE: The application process for Github Education takes a few days, so please sign up as soon as you can. GitHub Education gives you lots of nice (free) perks and learning tools!</p>
-</blockquote>
-<ol start="4" type="1">
-<li><p>Depending on the IDE you have chosen and your comfort with the command line, you may not want to use any other tools (e.g., many IDEs have built-in integration for git and GitHub). If all of this sounds super confusing, you can use <a href="https://github.com/apps/desktop">GitHub desktop</a> OR <a href="https://cli.github.com/">Github CLI</a> to streamline the process of pushing changes from your local machine to the GitHub cloud.</p></li>
-<li><p>On your computer:</p></li>
-</ol>
-<ul>
-<li>create a new directory (folder) in your <code>Downloads/</code> location (or any other location that is not synced with an online cloud storage like iCloud or OneDrive). Name the new folder as ‘PNB3EE3’</li>
-<li>within this folder, create another folder called ‘Lastname_Firstname_assignments’ – in my case, the folder would be called ‘Fink_Lauren_assignments’</li>
-<li>within this folder create a file called ‘environmentAssignment.html’</li>
-<li>open this file in the IDE you downloaded earlier (in step 1)</li>
-<li>in the environmentAssignment.html file, add the following lines:</li>
-</ul>
-<pre><code>        &lt;!DOCTYPE html&gt;
-        &lt;html&gt;
-        &lt;body&gt;
-
-        &lt;h1&gt;My First Heading&lt;/h1&gt;
-        &lt;p&gt;My first paragraph.&lt;/p&gt;
-
-        &lt;/body&gt;
-        &lt;/html&gt;</code></pre>
-<ul>
-<li>Now, replace “My First heading” with “What I learned today”.</li>
-<li>Next, replace “My first paragraph” with a few things you learned by completing this tutorial.</li>
-</ul>
-<ol start="6" type="1">
-<li>Be sure to come to the first class with all of the above completed. During the first class, we will discuss all of these concepts further and show you how / where to submit this first exercise. If you’ve run into issues throughout this process, don’t worry, we will help you troubleshoot any issues!</li>
-</ol>
+<section id="experimental-design" class="level2">
+<h2 class="anchored" data-anchor-id="experimental-design">Experimental Design</h2>
+<p>In case any of you need/want a little reminder of the basics of experimental design, here is a nice resource <a href="https://opentext.wsu.edu/carriecuttler/chapter/experiment-basics/">https://opentext.wsu.edu/carriecuttler/chapter/experiment-basics/</a> - I encourage you to click “content” in the top left of that link and read through any other sections of the book that you may need a refresher on. The course textbook, <a href="https://experimentology.io/">Experimentology</a>, is another great resource.</p>
 
 
 </section>
@@ -830,14 +782,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./01-intro.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Introduction</span></span>
+      <a href="./12-wrap-up.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Wrap-up</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./02-open-research.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-title">Open Research</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

@@ -208,5 +208,26 @@
     "title": "Wrap-up",
     "section": "Reflection",
     "text": "Reflection\nIf you would like to recieve 1 bonus percentage point towards your final grade, you can include a reflection in your individual repository. Further instructions are here."
+  },
+  {
+    "objectID": "resources.html#jspsych",
+    "href": "resources.html#jspsych",
+    "title": "Resources",
+    "section": "jsPsych:",
+    "text": "jsPsych:\n\nThe online documentation is a great resource. For example, you can check out references like this one: https://www.jspsych.org/7.3/reference/jspsych-randomization/ or this one: https://www.jspsych.org/7.3/plugins/survey-multi-choice/\nThis page links lots of additional tutorials and lectures you can watch: https://www.jspsych.org/7.3/tutorials/video-tutorials/\nYou can also check out plugins written by other researchers. For example, here is a paper describing a psychophysics plugin: https://link.springer.com/article/10.3758/s13428-020-01445-w\n\nAnd here is the code tutorial to accompany that paper: https://jspsychophysics.hes.kyushu-u.ac.jp/\n\nAnd here is a paper from the original authors of jsPsych, talking about a new simulation mode they have built: https://osf.io/preprints/psyarxiv/mq345\n\nThe code: https://jspsych.github.io/simulation-examples/"
+  },
+  {
+    "objectID": "resources.html#r",
+    "href": "resources.html#r",
+    "title": "Resources",
+    "section": "R:",
+    "text": "R:\n\nR for Psych: https://glennwilliams.me/r4psych/\nR graphics cookbook: https://r-graphics.org/\nR for data science: https://r4ds.hadley.nz/\nAll of the above are books with excellent tutorials that you can work through at your own pace. I highly encourage you to check out these resources, as they will show you how to do everything you could possibly need to do with your data this semester."
+  },
+  {
+    "objectID": "resources.html#experimental-design",
+    "href": "resources.html#experimental-design",
+    "title": "Resources",
+    "section": "Experimental Design",
+    "text": "Experimental Design\nIn case any of you need/want a little reminder of the basics of experimental design, here is a nice resource https://opentext.wsu.edu/carriecuttler/chapter/experiment-basics/ - I encourage you to click “content” in the top left of that link and read through any other sections of the book that you may need a refresher on. The course textbook, Experimentology, is another great resource."
   }
 ]
