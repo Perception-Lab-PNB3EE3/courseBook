@@ -11,7 +11,7 @@ This week we will focus on recommended best practices for transparent and open r
 - introduce web technologies for conducting online experiments
 
 
-Slides from this week are available here: [NOTE: Will be updated as course progresses]
+[Slides from this week are available here.](https://avenue.cllmcmaster.ca/d2l/le/content/668523/viewContent/5019991/View) NOTE: You need to log in to Avenue to access the slide. 
 
 
 ::: {.callout-important title="Assignments and Exercises"}
