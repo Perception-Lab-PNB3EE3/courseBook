@@ -374,8 +374,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#pre-requisites" id="toc-pre-requisites" class="nav-link active" data-scroll-target="#pre-requisites">Pre-requisites</a></li>
-  <li><a href="#assignment-instructions" id="toc-assignment-instructions" class="nav-link" data-scroll-target="#assignment-instructions">Assignment instructions</a></li>
+  <li><a href="#assignment-instructions" id="toc-assignment-instructions" class="nav-link active" data-scroll-target="#assignment-instructions">Assignment instructions</a></li>
   <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Assessment</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/edit/main/assignment_jsPsych_2.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/blob/main/assignment_jsPsych_2.qmd" class="toc-action">View source</a></p></div></div></nav>
@@ -401,36 +400,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>PNB 3EE3; Fink</p>
-<section id="pre-requisites" class="level2">
-<h2 class="anchored" data-anchor-id="pre-requisites">Pre-requisites</h2>
-<p>Before starting with the assignmet make sure that you’ve successfully created and initialized an individual Github repository. You will use this repository to keep track of your progress and submit your assignments.</p>
-<p>In addition to creating the repository, also make sure that you’ve activated Github Pages to host this repository as an online website. You can find the detailed steps <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site">here</a>. In summary,:</p>
-<pre><code>  * Open your Github repository in the browser and navigate to Settings -&gt; Pages. 
-
-  * Set the publishing source by selecting the current (main) branch. Make sure your repository contains a `README.md` in the root directory of the main branch.
-
-  * Click Save. Github takes a few minutes to host the website after which you can refresh to get the link to your hosted website.
-
-  * Add the link to your hosted website in your `README.md` file. </code></pre>
-</section>
 <section id="assignment-instructions" class="level2">
 <h2 class="anchored" data-anchor-id="assignment-instructions">Assignment instructions</h2>
 <p>The goal of this assignment is to familiarize you with the basics of setting up experiments in jsPsych.</p>
 <p>There are multiple steps to this assignment.</p>
 <ol type="1">
-<li><p>Complete the <a href="https://www.jspsych.org/7.0/tutorials/hello-world/#option-2-download-and-host-jspsych">Hello World tutorial</a>. Use ‘Option 2: Download and host jsPsych.’ Follow the same directory structure as shown in the example.</p></li>
-<li><p>Complete the <a href="https://www.jspsych.org/7.0/tutorials/rt-task/">Reaction Time tutorial</a>. If you are struggling with this tutorial, or you just want some additional reinforcement of the concepts you are learning, <a href="https://www.youtube.com/watch?v=18NW6jmc6m4">watch this video tutorial</a>. Disregard the very end of the video when the speaker tries to load packages from the local machine. Please use the downloaded JsPsych library (<code>MyExperiment/jspsych/</code>) from previous step to import jspsych scripts instead of using the CDN method.</p></li>
+<li><p>Create a new folder for this assignment called “JsPsych_2_assignment”.</p>
+<ul>
+<li>Hint: Create this folder inside your local clone of the Github repository so the changes are tracked by git.</li>
+</ul></li>
+<li><p>Complete the <a href="https://www.jspsych.org/7.0/tutorials/hello-world/#option-2-download-and-host-jspsych">Hello World tutorial</a>. Use ‘Option 2: Download and host jsPsych’ and follow the same directory structure as shown in the example.</p>
+<ul>
+<li>Note that in the class, we completed this tutorial with Option 1.</li>
+</ul></li>
+<li><p>Complete the <a href="https://www.jspsych.org/7.0/tutorials/rt-task/">Reaction Time tutorial</a>. Please use the downloaded JsPsych library (<code>MyExperiment/jspsych/</code>) from previous step to import jspsych scripts instead of using the CDN method.</p>
+<ul>
+<li>If you are struggling with this tutorial, or you just want some additional reinforcement of the concepts you are learning, <a href="https://www.youtube.com/watch?v=18NW6jmc6m4">watch this video tutorial</a>. Towards the very end of the video the speaker also shows how to import JsPsych scripts from the local machine.</li>
+</ul></li>
 <li><p>Create a copy of the reaction time tutorial and name the file <code>myNewExperiment.html</code></p></li>
-<li><p>Make the following changes to the experiment:</p>
+<li><p>Make sure that both your experiment html files and the related assets (images) are inside the <code>MyExperiment/</code> folder (created in step 2), which should also contain your downloaded JsPsych library inside <code>jspsych/</code>.</p></li>
+<li><p>Make the following changes to the new experiment (myNewExperiment.html):</p>
 <ul>
 <li><p>Make the diameter of the orange circle half of its current diameter.</p></li>
 <li><p>Change the blue circle to a blue square.</p></li>
 <li><p>At the end of the experiment, add feedback regarding how fast participants’ reaction times were for the blue squares vs.&nbsp;orange circles.</p></li>
 </ul></li>
-<li><p>Put both the experiment html files and the related assets (images) inside the <code>MyExperiment/</code> folder (created in step 1), which should also contain your downloaded JsPsych library inside <code>jspsych/</code>.</p></li>
-<li><p>Be sure to add a <code>README.md</code> file to this folder so that we can understand anything critical to making your code run.</p></li>
-<li><p>Also link the experiment to your main <code>README.md</code> file in the root directory (outside <code>MyExperiment/</code>) using a relative link, like <code>MyExperiment/myNewExperiment.html</code>.</p></li>
-<li><p>Push all changes to your individual GitHub repository.</p></li>
+<li><p>Add a <code>README.md</code> file to this folder so that we can understand anything critical to making your code run.</p></li>
+<li><p>Push all changes to your GitHub repository.</p></li>
 </ol>
 </section>
 <section id="assessment" class="level2">
