@@ -7,9 +7,13 @@ PNB 3EE3; Fink
 Before starting with the assignmet make sure that you've successfully created and initialized an individual Github repository. You will use this repository to keep track of your progress and submit your assignments.
 
 In addition to creating the repository, also make sure that you've activated Github Pages to host this repository as an online website. You can find the detailed steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). In summary,:
+
       * Open your Github repository in the browser and navigate to Settings -> Pages. 
+
       * Set the publishing source by selecting the current (main) branch. Make sure your repository contains a `README.md` in the root directory of the main branch.
+
       * Click Save. Github takes a few minutes to host the website after which you can refresh to get the link to your hosted website.
+
       * Add the link to your hosted website in your `README.md` file. 
 
 ## Assignment instructions
