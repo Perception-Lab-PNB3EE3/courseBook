@@ -1,0 +1,6 @@
+## Course Outline
+
+<iframe src="resources/course_outline.pdf" width="100%" height="600px">
+    Your browser does not support iframes. 
+    <a href="resources/course_outline.pdf">Download PDF</a>
+</iframe>

@@ -1,8 +1,32 @@
 # Poster Presentation Assignment
-Perception Lab will culminate with each student giving a 6 minute poster presentation (4 minute presentation + 2 mins for discussion). The poster is your chance to integrate everything you have learned throughout the course. It should include background motivation for your pre-registered experiment, your proposed methods, you statistical results and data visualizations from your simulated data, and a discussion about the implications of your research. 
+Perception Lab will culminate with each student giving a 6 minute poster presentation (4 minute presentation + 2 mins for discussion). The poster is your chance to integrate everything you have learned throughout the course. It should include background motivation for your pre-registered experiment, your proposed methods, your statistical results + data visualizations from your simulated data, and a discussion about the implications of your research. 
 
 ## What software to use
 You are free to use whatever software tool you like for this assignment. If you have gotten really into coding in R and reproducible workflows throughout this course, you could use [posterdown](https://github.com/brentthorne/posterdown); this [blog post](https://www.shilaan.com/post/academic-conference-posters-using-posterdown/) will give you a quick intro. Or, if you are really sick of code and dealing with unfamiliar tools, you can use powerpoint to make your poster. McMaster library provides free [powerpoint poster templates](https://brand-resources.mcmaster.ca/asset-bank/action/browseItems?cachedCriteria=1&categoryId=1773&categoryTypeId=2); note that you will need to be logged in via VPN and macid. You are also welcome to explore other online resources and find something that suites your own aesthetic preferences, or to develop your own poster from scratch. Just be sure that the visual design is intuitive, fonts and font sizes are readable, etc. The software you use does not factor into your grade for this assignment. Just be sure your visual design, content, and spoken presentation meet the assessment criteria in the provided rubric. 
 
 ## Assessment
-A full rubric for the poster presentation is in the [course outline](course_outline.pdf) (page 3).
+A full rubric for the poster presentation is in the [course outline](course_outline.qmd) (page 3).
+
+## Examples
+Here are some recent examples from the BEAT Lab. Your poster by no means needs to look like these! Feel free to choose whatever color schemes / templates you like! You will see that even within the same lab, there are very different styles of presenting a poster!
+
+This is a vertically-oriented poster:
+<iframe src="resources/Saxena_neuromusic24_poster.pdf" width="100%" height="600px">
+    Your browser does not support iframes. 
+    <a href="resources/Saxena_neuromusic24_poster.pdf">Download PDF</a>
+</iframe>
+
+
+This is a horizontally-oriented poster, created in Quarto:
+<iframe src="resources/Flannery_neuromusic24_poster.pdf" width="100%" height="600px">
+    Your browser does not support iframes. 
+    <a href="Flannery_neuromusic24_poster.pdf">Download PDF</a>
+</iframe>
+
+This is a horizontally-oriented poster, created in Inkscape:
+<iframe src="resources/Schlichting_neuromusic24_poster.pdf" width="100%" height="600px">
+    Your browser does not support iframes. 
+    <a href="resources/Schlichting_neuromusic24_poster.pdf">Download PDF</a>
+</iframe>
+
+

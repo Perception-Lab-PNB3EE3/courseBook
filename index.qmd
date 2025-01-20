@@ -17,7 +17,7 @@ Upon completing the course, you should be able to:
 ## Course Structure
 All course content and assignments will be posted on this website. However, you will turn in assignments through GitHub. Don't worry, you don't need to know what GitHub is yet! We will discuss it in class on day one. The reason we use GitHub, as opposed to Avenue, is because, many researchers around the world use GitHub every day in their scientific workflows, whereas Avenue is a tool somewhat specific to your undergraduate education. We feel that familiarizing you with GitHub early-on will benefit you as you look for research opportunities or even industry jobs in the future. 
 
-[The course outline is here](course_outline.pdf). It contains an overview of all assessment criteria and relevant institutional policies. [A more detailed weekly schedule, with deadlines for each assignment is available here.](weekly_schedule.pdf)
+[The course outline is here](course_outline.qmd). It contains an overview of all assessment criteria and relevant institutional policies. [A more detailed weekly schedule, with deadlines for each assignment is available here.](course_weekly_schedule.qmd)
 
 Every week in class, there will be a lecture component and a hands-on component. You are expected to come to class prepared for discussions about the assigned readings and with assignments completed. Often, we will go over assignments together and discuss any points of confusion. Attendance and participation in class is important.
 

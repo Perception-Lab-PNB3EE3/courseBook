@@ -1,0 +1,6 @@
+## Weekly Schedule
+
+<iframe src="resources/weekly_schedule.pdf" width="100%" height="600px">
+    Your browser does not support iframes. 
+    <a href="resources/weekly_schedule.pdf">Download PDF</a>
+</iframe>

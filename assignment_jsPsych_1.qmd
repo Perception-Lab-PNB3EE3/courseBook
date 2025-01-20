@@ -10,9 +10,11 @@ This is more of a reading, thinking, and practicing exercise. There is no final 
 ### Read these 2 journal articles: 
 
 This article provides context for why web-based research is important in psychology. 
+
 > Reips, U. D. (2021). Web-based research in psychology. Zeitschrift für Psychologie. Available from: [https://psycnet.apa.org/fulltext/2022-17584-002.pdf](https://psycnet.apa.org/fulltext/2022-17584-002.pdf)
 
 This article introduces jsPsych--a tool for web-based research. 
+
 > De Leeuw, J. R. (2015). jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior research methods, 47, 1-12. Available from: [https://link.springer.com/article/10.3758/s13428-014-0458-y](https://link.springer.com/article/10.3758/s13428-014-0458-y)
 
 > NOTE: You do not need to go through the tutorial included in the text (We will do a more up to date tutorial later!)

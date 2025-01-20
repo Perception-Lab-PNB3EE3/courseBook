@@ -6,11 +6,11 @@ While learning how to code experiments and collect data is a huge part of studyi
 In this assignment, you should use the programming language of your choice (e.g., R, Python, etc.) to do the following:
 
 1. Create a new notebook, in which you will conduct all of your analyses. Name your file `dataVisualisation_analyses.[file ext here]`
-2. Load in the [`assignments_dataVis_dataset.csv`](resources/assignments_dataVis_dataset.csv) file.
+2. Load in the [`assignments_dataVis_dataset.csv`](resources/assignment_dataVis_dataset.csv) file.
 
 3. Print summary statistics for each condition in the data set (e.g., mean, standard deviation)
 
-4. Visualize the results of each condition. At very least, you should plot y as a function of x for each condition. You are welcome to create as many plots as you like. Try to apply the visualiztion best practices presented during lecture. Please create your plots in line in your notebook.
+4. Visualize the results of each condition. At very least, you should plot y as a function of x for each condition. You are welcome to create as many plots as you like. Try to apply the visualization best practices presented during lecture. Please create your plots in line in your notebook.
 
 5. In a text cell in your code notebook, answer the following questions: 
 
@@ -43,7 +43,7 @@ This assignment is worth 10% of your grade. The breakdown of grading for this as
 
 
 ## Tips & Tricks
-Use this as an opportunity to get more familiar with your programming language of choice and to explore the fundamentals of data visualization! It is my understanding that your PNB coursework already involves R. I also know there is a Python for PNB course some of you may have taken. If you find yourself needing a refresher on either of these languages, there are so many great online resources! Here is a resource on [R essentials](https://tellingstorieswithdata.com/20-r_essentials.html) and here is one on [python essentials](https://lukas-snoek.com/introPy/week_1/python.html).
+Use this as an opportunity to get more familiar with your programming language of choice and to explore the fundamentals of data visualization! It is my understanding that your PNB coursework already involves R. I also know there is a Python for PNB course some of you may have taken. If you find yourself needing a refresher on either of these languages, there are so many great online resources! Here is a resource on [R essentials](https://tellingstorieswithdata.com/20-r_essentials.html) and here is one on [python essentials](https://lukas-snoek.com/introPy/week_1/python.html). There are even more helpful links listed on the course [Resources page](resources.qmd). 
 
 I highly recommend doing all of your coding in R markdown, Quarto, or a jupyter notebook. Such notebooks allow you to combine natural language with code. Why would you want to do that? Well, imagine you need to communicate your findings to someone else, or you want someone else to be able to reproduce the exact analyses you did. By writing code, creating detailed descriptions, and plotting figures in line, everything you need to do can all be in one place! In research jargon, we sometimes refer to this as a "reproducible workflow" -- if you're interested in learning about such workflows, [here is a primer](https://tellingstorieswithdata.com/03-workflow.html). Note that there are many types of notebooks to choose from, for example, [Jupyter Notebooks](https://jupyter.org), [Google Collab Notebooks](https://colab.research.google.com/?utm_source=scs-index#scrollTo=GJBs_flRovLc), and [R Notebooks](https://bookdown.org/yihui/rmarkdown/notebook). Choose whichever one you are familiar with or which seems most intuitive to you! 
 
