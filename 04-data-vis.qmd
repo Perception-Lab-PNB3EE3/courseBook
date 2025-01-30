@@ -12,9 +12,7 @@ We've been discussing how to design an experiment and collect data. But what do 
 
 - practice visualizing data 
 
-
-Slides from this week are available here: [NOTE: Will be updated as course progresses]
-
+[Slides from this week are available here.](https://avenue.cllmcmaster.ca/d2l/le/content/668523/viewContent/5033941/View) NOTE: You need to log in to Avenue to access the slides. 
 
 ::: {.callout-important title="Assignments and Exercises"}
 **Before next class**
