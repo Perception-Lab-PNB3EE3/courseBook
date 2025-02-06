@@ -13,7 +13,9 @@ After reading week, you will turn in the Pre-registration assignment. This week 
 - begin developing a pre-registration for your own experiment 
 
 
-Slides from this week are available here: [NOTE: Will be updated as course progresses]
+[Slides from this week are available here.](https://avenue.cllmcmaster.ca/d2l/le/content/668523/viewContent/5040720/View) NOTE: You need to log in to Avenue to access the slides. 
+
+Maya Flannery's guest lecture slides are available here: [https://pnb3ee3-w24.github.io/openScience/open-science.html#/title-slide](https://pnb3ee3-w24.github.io/openScience/open-science.html#/title-slide)
 
 
 ::: {.callout-important title="Assignments and Exercises"}
