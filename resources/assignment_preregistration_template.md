@@ -1,3 +1,10 @@
+---
+title: "My Pre-Registration"
+output: html_document
+bibliography: example.bib
+csl: apa.csl  
+---
+
 # Pre-registration Template
 Adapted from [https://osf.io/preprints/metaarxiv/epgjd](https://osf.io/preprints/metaarxiv/epgjd) into markdown format.
 
@@ -55,9 +62,12 @@ Adapted from [https://osf.io/preprints/metaarxiv/epgjd](https://osf.io/preprints
 
 > Please give a brief description of your study, including some background, the purpose of the of the study, or broad research questions. 
 >
-> - Example: Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry. 
->
-> More info: The description should be no longer than the length of an abstract. It can give some context for the proposed study, but great detail is not needed herefor your preregistration
+> NOTE that for the sake of this class, we are expecting longer descriptions than required in the OSF template. Please see the assignment description for more details. 
+> 
+> Here is an example of how to cite a source in your Description [@wright2023auditory].
+> NOTE that this reference gets pulled from the .bib file that you define in your YAML header at the top of this document. You should swap out my `example.bib` file with your own bib file. You can export a .bib file from your preferred reference management software. Or you can create your own. Just make sure the filename is defined properly above, and sources will automatically get integrated into your text and compiled into a reference list at the end of this document. To get the references to display in proper APA style, you should make sure the appropriate .csl file is fined in the YAML header. You can find a large list of different .csl files here: [https://github.com/citation-style-language/styles](https://github.com/citation-style-language/styles). For ease, I have included the `apa.csl` file in the course resources [here.](apa.csl)
+> 
+> If you want an in-text citation that does not involve paranthesis, e.g., to say something like "@wright2023auditory show...", then just leave the square brackets off of the citation (`@refkeyhere` vs. `[@refkeyhere]`). 
 
 ## 4. Hypotheses 
 
