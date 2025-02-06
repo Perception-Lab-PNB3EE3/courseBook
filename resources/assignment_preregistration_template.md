@@ -68,6 +68,8 @@ Adapted from [https://osf.io/preprints/metaarxiv/epgjd](https://osf.io/preprints
 > NOTE that this reference gets pulled from the .bib file that you define in your YAML header at the top of this document. You should swap out my `example.bib` file with your own bib file. You can export a .bib file from your preferred reference management software. Or you can create your own. Just make sure the filename is defined properly above, and sources will automatically get integrated into your text and compiled into a reference list at the end of this document. To get the references to display in proper APA style, you should make sure the appropriate .csl file is fined in the YAML header. You can find a large list of different .csl files here: [https://github.com/citation-style-language/styles](https://github.com/citation-style-language/styles). For ease, I have included the `apa.csl` file in the course resources [here.](apa.csl)
 > 
 > If you want an in-text citation that does not involve paranthesis, e.g., to say something like "@wright2023auditory show...", then just leave the square brackets off of the citation (`@refkeyhere` vs. `[@refkeyhere]`). 
+>
+> The [example.bib](example.bib) file is also in the course resources. If you are ever confused about where to find these files, you can always go to the source code for this website: [https://github.com/Perception-Lab-PNB3EE3/courseBook/tree/main](https://github.com/Perception-Lab-PNB3EE3/courseBook/tree/main)
 
 ## 4. Hypotheses 
 
