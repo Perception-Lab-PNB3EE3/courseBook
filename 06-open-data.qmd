@@ -11,8 +11,8 @@ This week we will get into the weeds about data. [Danica Evering](https://rdm.mc
 - explore the wealth of datasets freely available online 
 
 
-Slides from this week are available here: [NOTE: Will be updated as course progresses]
-
+[Slides from this week are available here.](https://avenue.cllmcmaster.ca/d2l/le/content/668523/viewContent/5063552/View)
+NOTE: You need to log in to Avenue to access the slides. 
 
 ::: {.callout-important title="Assignments and Exercises"}
 **Before next class**

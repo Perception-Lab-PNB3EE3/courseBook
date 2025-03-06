@@ -22,9 +22,9 @@ None of these are perfect (I am still learning too!); they are here to provide s
 > SIDENOTE: it is a bit beyond the scope of this course, but worth pointing out that one reason code intended to be reproducible might no longer be is due to changes in, e.g., function, package, language, or operating system versions, compared to when the code was originally written and run. Tools like [Docker](https://www.docker.com/) and [Code Ocean](https://codeocean.com/) provide solutions to this very real problem! They "containerize" your code in the computational environment you developed it in (e.g., with specific operating system, python verison, package versions, etc.).
 
 ## What to do for this assignment
-Your analysis code should follow your pre-registered data analysis plan. Be sure to write the code for all the analyses you proposed, including any exploratory analyses (as registered or now desired). Also be sure to include visualizations. In addition to visualizing your main findings, you might also want to produce visuals to ensure your data meet certain assumptions or that your experimental conditions were balanced as intended. 
+Your analysis code should follow your pre-registered data analysis plan. Be sure to write the code for all the analyses you proposed, including any exploratory analyses (as registered or now desired). Also be sure to include visualizations. In addition to visualizing your main findings, you might also want to produce visuals to ensure your data meet certain assumptions (e.g., is variable X normally distributed?) or that your experimental conditions were balanced as intended. 
 
-You should organize your analysis notebook logically, providing heading and descriptive text, notes, and comments where necessary. Someone unfamiliar with your analysis plan should be able to look at your notebook and understand what is going on and what it means. 
+You should organize your analysis notebook logically, providing headings and descriptive text, notes, and comments where necessary. Someone unfamiliar with your analysis plan should be able to look at your notebook and understand what is going on and what it means. 
 
 You will run your analysis code on data we will simulate together in class for your experiment. 
 
