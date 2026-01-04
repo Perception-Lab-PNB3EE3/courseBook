@@ -19,6 +19,8 @@ NOTE: You need to log in to Avenue to access the slides.
 
 Work on [jsPsych Assignment 2](assignment_jsPsych_2.qmd)
 
+> NOTE: this assignment will require substantial reading and thought - do not put it off until the last minute! 
+
 
 Required reading from Experimentology: 
 
