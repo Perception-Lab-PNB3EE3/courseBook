@@ -25,9 +25,18 @@ Please begin the [pre-registration assignment (linked here).](assignment_preregi
 
 > NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
 
-[Read Experimentology Ch. 11](https://experimentology.io/011-prereg.html) (it will help you with the assignment!)
 
-Importantly, please continue refining your research topic. 
+Remember to read Experimentology: 
+
+- [Chapter 11: Preregistration  ](https://experimentology.io/011-prereg.html)
+
+- [Chapter 12: Data Collection  ](https://experimentology.io/012-collection.html)
+
+- [Chapter 13: Project Management  ](https://experimentology.io/013-management.html)
+
+- [Chapter 14: Writing  ](https://experimentology.io/014-writing.html)
+
+- [Chapter 15: Visualization  ](https://experimentology.io/015-viz.html)
 
 :::
 
