@@ -30,6 +30,7 @@ Additionally, please read chapters 1-4 from Experimentology:
 
 - [Chapter 4: Ethics  ](https://experimentology.io/004-ethics.html)
 
+- [Appendix B: Git and GitHub  ](https://experimentology.io/101-github.html)
 :::
 
 
