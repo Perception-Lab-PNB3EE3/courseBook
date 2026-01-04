@@ -1,0 +1,27 @@
+# AI in the Research Cycle
+
+This week we will discuss and experiment with ways AI may or may not be reshaping research practices
+
+**Our goals are to:**
+
+- engage critically with AI hype
+
+- understand the ecosystem of available AI tools
+
+- discuss risks AI poses to the scientific ecosystem
+
+- interact with AI in the context of our own research interests
+
+
+[Slides from this week are available here.](https://avenue.cllmcmaster.ca/d2l/le/content/668523/viewContent/5019991/View) NOTE: You need to log in to Avenue to access the slides. 
+
+
+::: {.callout-important title="Assignments and Exercises"}
+**Before next class**
+
+Continue researching topic of interest
+
+Work on pre-registration
+
+
+:::
