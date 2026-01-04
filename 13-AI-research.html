@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Perception Lab - Data Analyses</title>
+<title>Perception Lab - AI in the Research Cycle</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./assignment_analysis_code.html" rel="next">
-<link href="./08-poster.html" rel="prev">
+<link href="./07-exp-programming.html" rel="next">
+<link href="./assignment_preregistration.html" rel="prev">
 <link href="./favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -76,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./09-data-analyses.html">Week 9</a></li><li class="breadcrumb-item"><a href="./09-data-analyses.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Data Analyses</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./13-AI-research.html">Week 6</a></li><li class="breadcrumb-item"><a href="./13-AI-research.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">AI in the Research Cycle</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -264,7 +264,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./13-AI-research.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">AI in the Research Cycle</span></a>
+  <a href="./13-AI-research.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">AI in the Research Cycle</span></a>
   </div>
 </li>
       </ul>
@@ -317,7 +317,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./09-data-analyses.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Data Analyses</span></a>
+  <a href="./09-data-analyses.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data Analyses</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -387,7 +387,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Data Analyses</span></h1>
+<h1 class="title"><span class="chapter-title">AI in the Research Cycle</span></h1>
 </div>
 
 
@@ -402,15 +402,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>This week we will focus on data analysis. You have already coded your experiment and made sure that all of the data you need from the experiment is properly output. Now its time to analyze simulated data from your experiment!</p>
+<p>This week we will discuss and experiment with ways AI may or may not be reshaping research practices</p>
 <p><strong>Our goals are to:</strong></p>
 <ul>
-<li><p>understand the importance of simulating data and planning analyses</p></li>
-<li><p>review data visualization best practices</p></li>
-<li><p>apply statistical knowledge from other required courses</p></li>
-<li><p>workshop the beginnings of your analysis notebook</p></li>
+<li><p>engage critically with AI hype</p></li>
+<li><p>understand the ecosystem of available AI tools</p></li>
+<li><p>discuss risks AI poses to the scientific ecosystem</p></li>
+<li><p>interact with AI in the context of our own research interests</p></li>
 </ul>
-<p><a href="https://avenue.cllmcmaster.ca/d2l/le/content/668523/viewContent/5077552/View">Slides from this week are available here.</a> NOTE: You need to log in to Avenue to access the slides.</p>
+<p><a href="https://avenue.cllmcmaster.ca/d2l/le/content/668523/viewContent/5019991/View">Slides from this week are available here.</a> NOTE: You need to log in to Avenue to access the slides.</p>
 <div class="callout callout-style-default callout-important callout-titled" title="Assignments and Exercises">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -422,11 +422,8 @@ Assignments and Exercises
 </div>
 <div class="callout-body-container callout-body">
 <p><strong>Before next class</strong></p>
-<p>Begin working on your <a href="./assignment_analysis_code.html">analysis code</a>. You will have two weeks to complete this assignment.</p>
-<blockquote class="blockquote">
-<p>NOTE: this assignment will require substantial effort - do not put it off until the last minute!</p>
-</blockquote>
-<p>If you are struggling with this assignment, go back to the previous data visualization assignment, as well as materials from the statistics courses you have already taken for your degree. Don’t be afriad to ask your peers or instructors for help!</p>
+<p>Continue researching topic of interest</p>
+<p>Work on pre-registration</p>
 </div>
 </div>
 
@@ -797,13 +794,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./08-poster.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Creating a research poster</span></span>
+      <a href="./assignment_preregistration.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Pre-registration Assignment</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./assignment_analysis_code.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-title">Data analysis code</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./07-exp-programming.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-title">Programming your experiment</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -813,7 +810,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">Copyright 2024, Lauren Fink</div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/edit/main/09-data-analyses.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/blob/main/09-data-analyses.qmd" class="toc-action">View source</a></p></div></div></div>
+    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/edit/main/13-AI-research.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/Perception-Lab-PNB3EE3/courseBook/blob/main/13-AI-research.qmd" class="toc-action">View source</a></p></div></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
