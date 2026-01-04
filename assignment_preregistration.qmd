@@ -30,13 +30,5 @@ In this assignment, you should pre-register an experiment that you will later cr
 
 
 ### Assessment Criteria
-This pre-registration is worth 20% of your final course grade. The breakdown of grading for this assignment is as follows:
-
-- Completeness (all sections completed and organized according to template): 10%
-
--  Clarity (external readers can understand your design and have enough details to replicate it): 60%
-
-- Novelty and logic (your experiment contributes something new to the literature and is logically designed): 30%
-
-**IMPORTANT:** Generative AI (e.g., chatGPT) should not be used to complete this assignment. 
+A full rubric for this assignment is in the [course outline](course_outline.qmd).
 
