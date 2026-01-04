@@ -17,11 +17,17 @@ This week we will focus on various aspects of experimental design and continuing
 ::: {.callout-important title="Assignments and Exercises"}
 **Before next class**
 
-Please work through the [jsPsych assignment 2 (linked here).](assignment_jsPsych_2.qmd)
+Required reading from Experimentology: 
 
-> NOTE: this assignment will require substantial effort - do not put it off until the last minute! 
+- [Chapter 11: Preregistration  ](https://experimentology.io/011-prereg.html)
 
-Additionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project. 
+- [Chapter 12: Data Collection  ](https://experimentology.io/012-collection.html)
+
+- [Chapter 13: Project Management  ](https://experimentology.io/013-management.html)
+
+- [Chapter 14: Writing  ](https://experimentology.io/014-writing.html)
+
+- [Chapter 15: Visualization  ](https://experimentology.io/015-viz.html)
 
 :::
 
