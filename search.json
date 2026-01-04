@@ -193,7 +193,7 @@
     "href": "assignment_analysis_code.html#assessment",
     "title": "Data analysis code",
     "section": "Assessment",
-    "text": "Assessment\nThis assignment is worth 10% of your overall course grade. A breakdown of assessment criteria for this assignment is provided below. Your final analysis code should:\n\nbe executable from start to finish (meaning your notebook will likely ‘live’ in a repository that also contains your final data table required for analyses, as well as a README, etc.): 20%\nbe well-commented (use the increased functionality and markdown formatting of these notebooks to take your reader on a logical journey of why you did the analyses you did. Be sure to include any considerations or notes you feel important): 20%\ninclude compelling in-line visuals that make sense for your data: 30%\ninclude statistical tests appropriate for your data: 30%"
+    "text": "Assessment\nA full rubric for the poster presentation is in the course outline."
   },
   {
     "objectID": "10-peer-review.html",
