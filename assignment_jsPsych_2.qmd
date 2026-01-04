@@ -36,15 +36,4 @@ There are multiple steps to this assignment.
 
 8. Push all changes to your GitHub repository.
 
-## Assessment
-This assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:
 
-* Completeness (all necessary files submitted in one folder; code accomplishes what it should): 30%
-
-* Reproducability (all files can be executed without error): 40%
-
-* Documentation (code and README.md have been appropriately commented so that others can understand): 30%
-
-
-
-**IMPORTANT:** Generative AI (e.g., chatGPT) should not be used to complete this assignment. 
