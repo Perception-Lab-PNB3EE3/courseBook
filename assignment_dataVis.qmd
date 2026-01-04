@@ -1,9 +1,9 @@
 PNB 3EE3; Fink
 
-# Data Visualisation Assignment
+# Data Visualisation Exercise
 While learning how to code experiments and collect data is a huge part of studying human perception, another massively important aspect is learning how to think about data, visualise it, summarize it, and talk about it. 
 
-In this assignment, you should use the programming language of your choice (e.g., R, Python, etc.) to do the following:
+In this exercise, you should use the programming language of your choice (e.g., R, Python, etc.) to do the following:
 
 1. Create a new notebook, in which you will conduct all of your analyses. Name your file `dataVisualisation_analyses.[file ext here]`
 2. Load in the [`assignments_dataVis_dataset.csv`](resources/assignment_dataVis_dataset.csv) file.
@@ -28,18 +28,6 @@ In this assignment, you should use the programming language of your choice (e.g.
 
 7. Be sure to push your changes to GitHub.
 
-## Assessment
-This assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:
-
--  Content (the statistics and visualizations make sense for the dataset): 30%  
-
--  Documentation (code has been appropriately commented so that others can understand): 30%  
-
--  Reflection (clear evidence of critical thinking and meaningful reflection): 40%  
-
-
-
-**IMPORTANT:** Generative AI (e.g., chatGPT) should not be used to complete this assignment. 
 
 
 ## Tips & Tricks
