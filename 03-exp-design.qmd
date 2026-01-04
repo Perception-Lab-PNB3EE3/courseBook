@@ -17,6 +17,11 @@ This week we will focus on various aspects of experimental design and continuing
 ::: {.callout-important title="Assignments and Exercises"}
 **Before next class**
 
+In tutorial and next class we will go over this [data visualization exercise (linked here).](assignment_dataVis.qmd) 
+
+> NOTE: Reading Ch. 15 will help you with the exercise! 
+
+
 Required reading from Experimentology: 
 
 - [Chapter 11: Preregistration  ](https://experimentology.io/011-prereg.html)
@@ -28,6 +33,9 @@ Required reading from Experimentology:
 - [Chapter 14: Writing  ](https://experimentology.io/014-writing.html)
 
 - [Chapter 15: Visualization  ](https://experimentology.io/015-viz.html)
+
+
+Additionally, please continue thinking about a topic in Perception research (broadly defined) that is of interest to you for your individual project. 
 
 :::
 
