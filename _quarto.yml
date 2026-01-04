@@ -46,7 +46,7 @@ book:
         - assignment_preregistration.qmd
     - part: "Week 6"
       chapters: 
-        - 06-open-data.qmd
+        - 13-AI-research.qmd
     - part: "Week 7"
       chapters: 
         - 07-exp-programming.qmd
