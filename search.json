@@ -165,7 +165,7 @@
     "href": "assignment_experiment_code.html#assessment",
     "title": "Experiment Presentation Code",
     "section": "Assessment",
-    "text": "Assessment\n\nCompleteness (all necessary files submitted): 10%\nReproducability (experiment can be executed without error; data required for subsequent analyses are properly saved: 30%)\nLogic / Clarity (experiment user interface and timeline is intuitive; instructions make sense; questions are clear, etc.): 20%\nDocumentation. There are two aspects: 1) the code has been appropriately commented so that others can understand it (20%). 2) a clear and organized README.md file is included instructructing others how to use and interact with your code (20%)."
+    "text": "Assessment\nA full rubric for the poster presentation is in the course outline."
   },
   {
     "objectID": "08-poster.html",
