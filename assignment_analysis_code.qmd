@@ -29,12 +29,7 @@ You should organize your analysis notebook logically, providing headings and des
 You will run your analysis code on data we will simulate together in class for your experiment. 
 
 ## Assessment
-This assignment is worth 10% of your overall course grade. A breakdown of assessment criteria for this assignment is provided below. Your final analysis code should:
-
-* be executable from start to finish (meaning your notebook will likely 'live' in a repository that also contains your final data table required for analyses, as well as a README, etc.): 20%
-* be well-commented (use the increased functionality and markdown formatting of these notebooks to take your reader on a logical journey of why you did the analyses you did. Be sure to include any considerations or notes you feel important): 20%
-* include compelling in-line visuals that make sense for your data: 30%
-* include statistical tests appropriate for your data: 30%
+A full rubric for the poster presentation is in the [course outline](course_outline.qmd).
 
 
 
