@@ -38,7 +38,6 @@ book:
     - part: "Week 4"
       chapters: 
         - 03-exp-design.qmd
-        - 04-data-vis.qmd
         - assignment_dataVis.qmd
     - part: "Week 5"
       chapters: 
