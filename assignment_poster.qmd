@@ -8,7 +8,7 @@ You are free to use whatever software tool you like for this assignment. If you 
 Download from [here](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/saxens17_mcmaster_ca/Eed3sRJjlHJGuvvVmweJu2wBT2H-KKj6klZIkGdG2QR9-A?e=ZmnZqx)
 
 ## Assessment
-A full rubric for the poster presentation is in the [course outline](course_outline.qmd) (page 3).
+A full rubric for the poster presentation is in the [course outline](course_outline.qmd).
 
 ## Examples
 Here are some recent examples from the BEAT Lab. Your poster by no means needs to look like these! Feel free to choose whatever color schemes / templates you like! You will see that even within the same lab, there are very different styles of presenting a poster!
