@@ -105,13 +105,6 @@
     "text": "Assignment instructions\nThe goal of this assignment is to familiarize you with the basics of setting up experiments in jsPsych.\nThere are multiple steps to this assignment.\n\nCreate a new folder for this assignment called “JsPsych_2_assignment”.\n\nHint: Create this folder inside your local clone of the Github repository so the changes are tracked by git.\n\nComplete the Hello World tutorial. Use ‘Option 2: Download and host jsPsych’ and follow the same directory structure as shown in the example.\n\nNote that in the class, we completed this tutorial with Option 1.\n\nComplete the Reaction Time tutorial. Please use the downloaded JsPsych library (MyExperiment/jspsych/) from previous step to import jspsych scripts instead of using the CDN method.\n\nIf you are struggling with this tutorial, or you just want some additional reinforcement of the concepts you are learning, watch this video tutorial. Towards the very end of the video the speaker also shows how to import JsPsych scripts from the local machine.\n\nCreate a copy of the reaction time tutorial and name the file myNewExperiment.html\nMake sure that both your experiment html files and the related assets (images) are inside the MyExperiment/ folder (created in step 2), which should also contain your downloaded JsPsych library inside jspsych/.\nMake the following changes to the new experiment (myNewExperiment.html):\n\nMake the diameter of the orange circle half of its current diameter.\nChange the blue circle to a blue square.\nAt the end of the experiment, add feedback regarding how fast participants’ reaction times were for the blue squares vs. orange circles.\n\nAdd a README.md file to this folder so that we can understand anything critical to making your code run.\nPush all changes to your GitHub repository."
   },
   {
-    "objectID": "assignment_jsPsych_2.html#assessment",
-    "href": "assignment_jsPsych_2.html#assessment",
-    "title": "jsPsych Assignment 2",
-    "section": "Assessment",
-    "text": "Assessment\nThis assignment is worth 10% of your grade. The breakdown of grading for this assignment is as follows:\n\nCompleteness (all necessary files submitted in one folder; code accomplishes what it should): 30%\nReproducability (all files can be executed without error): 40%\nDocumentation (code and README.md have been appropriately commented so that others can understand): 30%\n\nIMPORTANT: Generative AI (e.g., chatGPT) should not be used to complete this assignment."
-  },
-  {
     "objectID": "04-data-vis.html",
     "href": "04-data-vis.html",
     "title": "Data Visualization",
