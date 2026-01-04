@@ -26,4 +26,4 @@ The website you are currently viewing is a [Quarto book](https://quarto.org/docs
 Use the navigation bar at the left to view course contents by week (number) and topic. While most contents are nested within week, important documents (like the course outline) have their own top-level heading page. 
 
 ## Contributing
-Teaching assistants and students are welcomed and encouraged to contribute to this courseBook -- if you spot an error or seem room for improvement, create a pull request and I'll be happy to review and incorporate the requested change. 
+Teaching assistants and students are welcomed and encouraged to contribute to this courseBook -- if you spot an error or see room for improvement, create a pull request and I'll be happy to review and incorporate the requested change. 
