@@ -50,7 +50,7 @@ All of these provide basic background information on web technologies and progra
 
 ### Answer these questions
 **Please answer the following questions (in <= 1 paragraph).**
-Each answer is worth two points. 2 points will be awarded if the answer is coherent and without errors. 1 point will be awarded for a partially correct answer. 0 points for an empty or almost completely incorrect answer. This assignment is worth 8% of your final grade in the course. Generative AI (e.g., chatGPT) should not be used to complete any part of this assignment. These questions should not be difficult if you have read the materials above. If you are having trouble, consider revisiting the readings. 
+Generative AI (e.g., chatGPT) should not be used to complete any part of this assignment. These questions should not be difficult if you have read the materials above. If you are having trouble, consider revisiting the readings. 
  
 1. What is the difference between closed-source, proprietary code and open-source code? 
 
