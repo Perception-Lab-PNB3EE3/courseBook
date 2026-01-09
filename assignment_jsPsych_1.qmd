@@ -64,7 +64,7 @@ Generative AI (e.g., chatGPT) should not be used to complete any part of this as
 
 6. Imagine you want to use the visual-search-circle plugin in a jsPsych experiment. Please provide the HTML code required to load jsPsych and this particular plugin. HINT: your answer should only be four lines of code!
 
-To submit your answers to these questions, please use the following form: [https://forms.office.com/r/Y5wtA5B3GS](https://forms.office.com/r/Y5wtA5B3GS)
+To submit your answers to these questions, please complete the quiz on [Avenue to Learn](https://avenue.cllmcmaster.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=269865&ou=753001)
 
 
 
